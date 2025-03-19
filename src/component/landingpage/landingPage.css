@@ -1,0 +1,48 @@
+.landing-page {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-image: url('/images/young-woman-pharmacist-pharmacy.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 3rem;
+  }
+  
+  .landing-page::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5); /* Black Overlay */
+  }
+  
+  .landing-content {
+    position: relative;
+    max-width: 40rem;
+    text-align: left;
+    color: white;
+  }
+  
+  .landing-title {
+    font-size: 3rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    margin-bottom: 1.5rem;
+  }
+  
+  .landing-button {
+    padding: 0.75rem 1.5rem;
+    background-color: #0d9488;
+    color: white;
+    font-size: 1.25rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: background 0.3s ease;
+  }
+  
+  .landing-button:hover {
+    background-color: #0f766e;
+  }
+  

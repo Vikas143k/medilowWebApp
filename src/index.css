@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100 text-gray-900;
+}
+
+.navbar {
+  @apply flex justify-between items-center bg-white p-4 shadow-md;
+}
+
+.hero {
+  @apply text-center py-16 bg-blue-500 text-white;
+}
+
+.card {
+  @apply bg-white p-4 rounded-lg shadow-md;
+}
