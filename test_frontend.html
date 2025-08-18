@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Medicine API</title>
+</head>
+<body>
+    <h1>Medicine API Test</h1>
+    <button onclick="testAPI()">Test API Call</button>
+    <div id="result"></div>
+
+    <script>
+        async function testAPI() {
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = 'Loading...';
+            
+            try {
+                // Test with a simple medicine ID
+                const medicineId = encodeURIComponent('Paracetamol|Test|100');
+                const response = await fetch(`http://localhost:5000/medicine/${medicineId}`);
+                
+                console.log('Status:', response.status);
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    resultDiv.innerHTML = `
+                        <h2>✅ SUCCESS!</h2>
+                        <p><strong>Name:</strong> ${data.name}</p>
+                        <p><strong>Uses:</strong> ${data.uses?.substring(0, 200)}...</p>
+                        <p><strong>Mechanism:</strong> ${data.mechanism?.substring(0, 200)}...</p>
+                    `;
+                } else {
+                    resultDiv.innerHTML = `<h2>❌ ERROR: ${response.status}</h2><p>${await response.text()}</p>`;
+                }
+            } catch (error) {
+                resultDiv.innerHTML = `<h2>❌ NETWORK ERROR</h2><p>${error.message}</p>`;
+                console.error('Error:', error);
+            }
+        }
+    </script>
+</body>
+</html>

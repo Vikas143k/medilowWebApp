@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Search Persistence</title>
+</head>
+<body>
+    <h1>Search State Persistence Test</h1>
+    
+    <h2>Test URLs:</h2>
+    <ul>
+        <li><a href="http://localhost:3000/search?q=paracetamol" target="_blank">Search with query: paracetamol</a></li>
+        <li><a href="http://localhost:3000/search?q=pantop" target="_blank">Search with query: pantop</a></li>
+        <li><a href="http://localhost:3000/search" target="_blank">Empty search page</a></li>
+    </ul>
+    
+    <h2>How to Test:</h2>
+    <ol>
+        <li>Click on one of the test URLs above</li>
+        <li>Wait for search results to load</li>
+        <li>Click "View Details" on any medicine</li>
+        <li>Click "Back to Search" button</li>
+        <li>✅ Your search results should still be there!</li>
+    </ol>
+    
+    <p><strong>Expected Behavior:</strong></p>
+    <ul>
+        <li>Search query stays in the input field</li>
+        <li>Search results remain visible</li>
+        <li>No need to search again</li>
+        <li>URL contains your search state</li>
+    </ul>
+</body>
+</html>

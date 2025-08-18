@@ -1,12 +1,10 @@
-import React, { useState } from "react";
-import MedicineSearch from "../medicineSearch";// Import MedicineSearch
+import React from "react";
+import { useNavigate } from "react-router-dom";
 
 export default function LandingPage() {
-  const [showSearch, setShowSearch] = useState(false);
+  const navigate = useNavigate();
 
-  return showSearch ? (
-    <MedicineSearch />
-  ) : (
+  return (
     <div
       className="h-screen flex flex-col justify-center items-start bg-cover bg-center relative px-12"
       style={{ backgroundImage: "url('/images/young-woman-pharmacist-pharmacy.jpg')" }}
@@ -23,7 +21,7 @@ export default function LandingPage() {
           Your trusted companion for finding medicines.
         </p>
         <button
-          onClick={() => setShowSearch(true)} // Switch to MedicineSearch
+          onClick={() => navigate('/search')}
           className="px-6 py-3 bg-teal-600 text-white text-lg rounded-lg shadow-md hover:bg-teal-700 transition-all"
         >
           Enter MediLow

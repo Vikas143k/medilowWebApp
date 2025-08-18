@@ -1,7 +1,12 @@
 fastapi
 uvicorn
-faiss-cpu
-scikit-learn
+pydantic
+tqdm
+requests
 numpy
 pandas
+scikit-learn
 rapidfuzz
+google-generativeai
+# FAISS is optional; enabled on non-Windows platforms. On Windows we use a NumPy fallback.
+faiss-cpu; platform_system != "Windows"
