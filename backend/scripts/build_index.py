@@ -18,12 +18,22 @@ pca_file = "model/pca_model.pkl"
 
 # Load dataset
 print("🔄 Loading dataset...")
-df = pd.read_csv(r"F:\Code\project\mediLow\backend\data\medicine_data.csv")
+df = pd.read_csv(r"D:\mediLowwebapp\backend\data\medicine_data.csv")
 # Preprocessing
 df['name'] = df['name'].str.lower()
 df["short_composition1"] = df["short_composition1"].fillna("")
 df["short_composition2"] = df["short_composition2"].fillna("")
 df["full_composition"] = df["short_composition1"] + " " + df["short_composition2"]
+
+
+# Load symptom dataset
+df_symptom = pd.read_csv(r"D:\mediLowwebapp\backend\data\Diseases_Symptoms.csv")
+
+
+df_symptom['symptom'] = df_symptom['symptom'].str.lower()
+df_symptom["short_composition1"] = df_symptom["short_composition1"].fillna("")
+df_symptom["short_composition2"] = df_symptom["short_composition2"].fillna("")
+df_symptom["full_composition"] = df_symptom["short_composition1"] + " " + df_symptom["short_composition2"]
 
 # Load or train TF-IDF Vectorizer
 if os.path.exists(vectorizer_file):
@@ -85,10 +95,7 @@ else:
 
 print("🎯 Setup complete! Ready for medicine recommendations.")
 
-# def get_correct_name(user_input, df, top_n=5):
-#     """Use RapidFuzz for fuzzy matching."""
-#     best_matches = process.extract(user_input.lower(), df["name"], limit=top_n)
-#     return best_matches[0][0] if best_matches else None
+
 def get_correct_name(user_input, df, top_n=5, min_similarity=80):
     """Use RapidFuzz for fuzzy matching with a minimum similarity threshold."""
     best_match = process.extractOne(user_input.lower(), df["name"])
@@ -98,32 +105,7 @@ def get_correct_name(user_input, df, top_n=5, min_similarity=80):
     else:
         return None  # Reject incorrect input
 
-# def get_generic_alternatives(correct_name, df, index, k=5):
-#     """Use FAISS for fast nearest neighbor search."""
-#     if correct_name not in df["name"].values:
-#         return "Medicine not found."
-    
-#     idx = df.index[df["name"] == correct_name].tolist()[0]
-#     query_vector = reduced_vectors[idx].reshape(1, -1)
-    
-#     _, indices = index.search(query_vector, k+1)
-#     alternative_indices = indices[0][1:]  # Exclude self match
-    
-#     return df["name"].iloc[alternative_indices].tolist()
-# def get_generic_alternatives(correct_name, df, index, k=3):
-#     """Use FAISS for fast nearest neighbor search and return top 3 alternatives with details."""
-#     if correct_name not in df["name"].values:
-#         return "Medicine not found."
-    
-#     idx = df.index[df["name"] == correct_name].tolist()[0]
-#     query_vector = reduced_vectors[idx].reshape(1, -1)
-    
-#     _, indices = index.search(query_vector, k+1)  # Get nearest neighbors
-#     alternative_indices = indices[0][1:k+1]  # Exclude the first one (itself)
-    
-#     alternatives = df.iloc[alternative_indices][["name", "manufacturer_name", "price", "short_composition1", "short_composition2", "full_composition"]]
-    
-#     return alternatives.to_dict(orient="records")  # Convert to list of dictionaries
+
 def get_generic_alternatives(correct_name, df, index, k=3):
     """Retrieve top 3 alternatives with at least one common composition, sorted by lowest price."""
     if correct_name not in df["name"].values:
@@ -156,6 +138,51 @@ def get_generic_alternatives(correct_name, df, index, k=3):
     alternatives = alternatives.sort_values(by="price").head(k)
 
     return alternatives.to_dict(orient="records")  # Convert to list of dictionaries
+
+
+# --- Symptom functions ---
+def get_correct_symptom(user_input, df, min_similarity=70):
+    best_match = process.extractOne(user_input.lower(), df["symptom"])
+    if best_match and best_match[1] >= min_similarity:
+        return best_match[0]
+    return None
+
+# def get_treatment_by_symptom(user_input):
+#     correct_symptom = get_correct_symptom(user_input, df_symptom)
+#     if not correct_symptom:
+#         return "Symptom not found"
+#     row = df_symptom[df_symptom["symptom"] == correct_symptom].iloc[0]
+#     return {
+#         "Medicine": row["medicine_name"],
+#         "Price": row["price"],
+#         "Manufacturer": row["manufacturer_name"],
+#         "Type": row["type"],
+#         "Pack_Size": row["pack_size_label"],
+#         "Composition_1": row["short_composition1"],
+#         "Composition_2": row["short_composition2"]
+#     }
+
+def get_treatment_by_symptom(user_input):
+    correct_symptom = get_correct_symptom(user_input, df_symptom)
+    if not correct_symptom:
+        return []
+
+    # Filter all medicines for that symptom
+    rows = df_symptom[df_symptom["symptom"] == correct_symptom]
+
+    # Take top 3 alternatives
+    alternatives = []
+    for _, row in rows.head(3).iterrows():
+        alternatives.append({
+            "Medicine": row["medicine_name"],
+            "manufacturer": row["manufacturer_name"],
+            "short_composition1": row["short_composition1"],
+            "short_composition2": row["short_composition2"],
+            "price": row["price"],
+            "type": row["type"],
+            "pack_size": row["pack_size_label"]
+        })
+    return alternatives
 
 
 

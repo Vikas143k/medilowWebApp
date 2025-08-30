@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from scripts.build_index import get_medicine_recommendations
+from scripts.build_index import get_treatment_by_symptom
 import uvicorn
 
 app = FastAPI()
@@ -25,6 +26,14 @@ async def search_medicine(name: str):
         return {"alternatives": alternatives}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+@app.get("/search_symptom")
+async def search_symptom(query: str):
+    try:
+        result = get_treatment_by_symptom(query)
+        return {"alternatives": result}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=5000)
+    uvicorn.run(app, host="0.0.0.0", port=5010)

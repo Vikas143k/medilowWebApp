@@ -1,12 +1,14 @@
 import React, { useState } from "react";
-import MedicineSearch from "../medicineSearch";// Import MedicineSearch
+import MedicineSearch from "../medicineSearch";
+import SymptomSearch from "../symptomSearch";
 
 export default function LandingPage() {
-  const [showSearch, setShowSearch] = useState(false);
+  const [searchType, setSearchType] = useState(null); // null, "medicine", "symptom"
 
-  return showSearch ? (
-    <MedicineSearch />
-  ) : (
+  if (searchType === "medicine") return <MedicineSearch />;
+  if (searchType === "symptom") return <SymptomSearch />;
+
+  return (
     <div
       className="h-screen flex flex-col justify-center items-start bg-cover bg-center relative px-12"
       style={{ backgroundImage: "url('/images/young-woman-pharmacist-pharmacy.jpg')" }}
@@ -20,14 +22,23 @@ export default function LandingPage() {
           Welcome to MediLow
         </h1>
         <p className="text-white text-lg mb-6">
-          Your trusted companion for finding medicines.
+          Your trusted companion for finding medicines or treatments for symptoms.
         </p>
-        <button
-          onClick={() => setShowSearch(true)} // Switch to MedicineSearch
-          className="px-6 py-3 bg-teal-600 text-white text-lg rounded-lg shadow-md hover:bg-teal-700 transition-all"
-        >
-          Enter MediLow
-        </button>
+
+        <div className="flex flex-col gap-4">
+          <button
+            onClick={() => setSearchType("medicine")}
+            className="px-6 py-3 bg-teal-600 text-white text-lg rounded-lg shadow-md hover:bg-teal-700 transition-all"
+          >
+            Search by Medicine
+          </button>
+          <button
+            onClick={() => setSearchType("symptom")}
+            className="px-6 py-3 bg-blue-600 text-white text-lg rounded-lg shadow-md hover:bg-blue-700 transition-all"
+          >
+            Search by Symptom
+          </button>
+        </div>
       </div>
     </div>
   );

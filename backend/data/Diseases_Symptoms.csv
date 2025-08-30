@@ -1,0 +1,1510 @@
+id,symptom,medicine_name,price,Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+1,Fever,Crocin,50.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+2,Fever,Dolo-650,55.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (650mg),Caffeine (30mg)
+3,Fever,Combiflame,60.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Ibuprofen (400mg),Paracetamol (325mg)
+4,Cold,Coldrex,45.00,FALSE,Johnson & Johnson,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+5,Cold,Nasivion,48.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+6,Cold,Sinutab,50.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+7,Asthma,Asthalin,180.79,FALSE,Glenmark,allopathy,pack of 20 capsules,Hydroxyzine (25mg),Levocetirizine (5mg)
+8,Asthma,Flexhaler,190.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),Budesonide (200mcg)
+9,Asthma,Budeson,185.00,FALSE,Dr. Reddy's,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+10,Chest Pain,Ibucure,160.34,FALSE,Alembic Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+11,Chest Pain,Combiflam CP,170.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+12,Chest Pain,Brufen,165.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),-
+13,Sinusitis,Sinarest,233.14,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Dicyclomine (20mg),Simethicone (125mg)
+14,Sinusitis,Sinutab Plus,245.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+15,Sinusitis,Nasivion Forte,220.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+16,Kidney Stone,Uroban,94.78,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+17,Kidney Stone,Renostone,110.50,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+18,Kidney Stone,Nephrocare,105.00,FALSE,Alembic Pharmaceuticals,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+19,Diabetes,Metformin XR,120.00,FALSE,Solaris,allopathy,strip of 10 tablets,Metformin (500mg),-
+20,Diabetes,Glucofort,125.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+21,Diabetes,Diabeta,130.00,FALSE,Solaris,allopathy,strip of 10 tablets,Glyburide (5mg),-
+22,Hypertension,Lisinopril,110.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Lisinopril (10mg),-
+23,Hypertension,Losar,115.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),-
+24,Hypertension,Tenoretic,120.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+25,Back Pain,Flexon,150.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+26,Back Pain,Mobiflex,155.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),-
+27,Back Pain,Nurofen,160.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),-
+28,Headache,Excedrin,50.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+29,Headache,Panadol,55.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Paracetamol (500mg),-
+30,Headache,Acetamin,60.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),-
+31,Cold,Vicks Cold,48.00,FALSE,Procter & Gamble,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+32,Cold,Clarinase,50.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+33,Cold,Allegra,52.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Fexofenadine (180mg),-
+34,Fever,Tylenol,55.00,FALSE,Johnson & Johnson,allopathy,strip of 10 tablets,Paracetamol (500mg),-
+35,Fever,Calpol,57.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (30mg)
+36,Fever,Paracip,60.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+37,Asthma,Ventolin,185.00,FALSE,GSK,allopathy,pack of 20 capsules,Salbutamol (100mcg),-
+38,Asthma,Serevent,190.00,FALSE,Solaris,allopathy,pack of 20 capsules,Salmeterol (50mcg),-
+39,Asthma,Symbicort,195.00,FALSE,Alembic,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+40,Chest Pain,Novafen,165.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+41,Chest Pain,Cardipain,170.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+42,Chest Pain,Corfen,175.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),-
+43,Sinusitis,Allersin,230.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+44,Sinusitis,Rhinosin,240.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+45,Sinusitis,Sinumax,250.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+46,Kidney Stone,Urikid,100.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+47,Kidney Stone,Renalol,105.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+48,Kidney Stone,Nephrostin,110.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+49,Diabetes,Glucophage,120.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),-
+50,Diabetes,Glycomet,125.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+51,Diabetes,Metforal,130.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),-
+52,Hypertension,Capoten,110.00,FALSE,Merck,allopathy,strip of 10 tablets,Captopril (25mg),-
+53,Hypertension,Losar-50,115.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),-
+54,Hypertension,Bisotab,120.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),-
+55,Back Pain,Mobic,150.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+56,Back Pain,Flexurin,155.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),-
+57,Back Pain,Relafen,160.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),-
+58,Headache,Panamax,50.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+59,Headache,Headex,55.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),-
+60,Headache,Parafast,60.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),-
+61,Cold,RhinoFlu,48.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+62,Cold,Nasoforte,50.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+63,Cold,Coldplus,52.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+64,Fever,Fervex,55.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+65,Fever,Paracare,57.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+66,Fever,Tempra,60.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),-
+67,Asthma,Brovair,185.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+68,Asthma,Aerolin,190.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),-
+69,Asthma,Budenoforte,195.00,FALSE,Sun Pharma,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+70,Chest Pain,Cardiflam,165.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+71,Chest Pain,Novopain,170.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+72,Chest Pain,Corafen,175.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),-
+73,Sinusitis,Sinucold,230.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+74,Sinusitis,Rhinoset,240.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+75,Sinusitis,Sinufix,250.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+76,Kidney Stone,Urikid Plus,100.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+77,Kidney Stone,Renalol XR,105.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+78,Kidney Stone,Nephrostin Plus,110.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+79,Diabetes,Glucoheal,120.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),-
+80,Diabetes,Diafex,125.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+81,Diabetes,Metforal XR,130.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),-
+82,Hypertension,Lisinex,110.00,FALSE,Merck,allopathy,strip of 10 tablets,Lisinopril (10mg),-
+83,Hypertension,Losartan Plus,115.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),-
+84,Hypertension,Bisoprolol XR,120.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),-
+85,Back Pain,Flexo,150.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+86,Back Pain,Mobicare,155.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),-
+87,Back Pain,Relaflex,160.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),-
+88,Headache,Headstop,50.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+89,Headache,Panax,55.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),-
+90,Headache,Aceta,60.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),-
+91,Cold,Rhinoflu,48.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+92,Cold,Nasoclear,50.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+93,Cold,Coldaway,52.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+94,Fever,Fervex Plus,55.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+95,Fever,Parafev,57.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+96,Fever,Tempra Plus,60.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),-
+97,Asthma,Brovair Plus,185.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+98,Asthma,Aerolin Plus,190.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),-
+99,Asthma,Budenoforte Plus,195.00,FALSE,Sun Pharma,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+100,Chest Pain,Cardiflam Plus,165.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+101,Body Ache,Flexon,65.00,FALSE,Alembic,allopathy,strip of 10 tablets,Paracetamol (500mg),Ibuprofen (400mg)
+102,Constipation,Duphalac,80.00,FALSE,Abbott,allopathy,bottle of 200 ml Syrup,Lactulose (10g),-
+103,Heartburn,Somac,120.00,FALSE,Pfizer,allopathy,strip of 10 tablets,Pantoprazole (40mg),-
+104,Indigestion,Digestal,55.00,FALSE,Alkem,allopathy,strip of 10 tablets,Simethicone (80mg),Fungal Diastase (50mg)
+105,Diarrhea,Flagyl,60.00,FALSE,Alembic,allopathy,strip of 10 tablets,Metronidazole (400mg),-
+106,Acidity,Acidil,70.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Ranitidine (150mg),-
+107,Muscle Pain,Myospaz,90.00,FALSE,Win-Medicare,allopathy,strip of 10 tablets,Chlorzoxazone (250mg),Paracetamol (500mg)
+108,Swelling,Meftal-SP,85.00,FALSE,Blue Cross,allopathy,strip of 10 tablets,Mefenamic Acid (500mg),Serratiopeptidase (10mg)
+109,Itching,Atarax,75.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Hydroxyzine (25mg),Cetirizine (10mg)
+110,Runny Nose,Levocet,60.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Levocetirizine (5mg),Phenylephrine (10mg)
+111,Sneezing,Cetrizine,55.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Cetirizine (10mg),Phenylephrine (5mg)
+112,Watery Eyes,Olopat,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (5mg),Ketotifen (1mg)
+113,Loss of Appetite,Cypon,65.00,FALSE,Indoco Remedies,allopathy,strip of 10 tablets,Cyproheptadine (4mg),Multivitamins
+114,Stomach Pain,Spasmex,70.00,FALSE,Alkem,allopathy,strip of 10 tablets,Dicyclomine (20mg),Paracetamol (500mg)
+115,Gas,Digene,50.00,FALSE,Abbott,allopathy,strip of 10 tablets,Magnesium Hydroxide (250mg),Simethicone (80mg)
+116,Bloating,Colospa,85.00,FALSE,Abbott,allopathy,strip of 10 tablets,Mebeverine (135mg),Simethicone (80mg)
+117,Cramping,Buscopan,90.00,FALSE,Boehringer Ingelheim,allopathy,strip of 10 tablets,Hyoscine Butylbromide (10mg),Paracetamol (500mg)
+118,Loose Motion,Loperamide,55.00,FALSE,Janssen,allopathy,strip of 10 tablets,Loperamide (2mg),ORS Salts
+119,Dehydration,Electral,40.00,FALSE,FDC,allopathy,pack of 21g Sachet,ORS Salts,Glucose (3.5g)
+120,Dizziness,Vertin,110.00,FALSE,Abbott,allopathy,strip of 10 tablets,Betahistine (16mg),Meclizine (25mg)
+121,Palpitations,Betaloc,120.00,FALSE,AstraZeneca,allopathy,strip of 10 tablets,Metoprolol (50mg),Atenolol (25mg)
+122,Shortness of Breath,Asthalin,85.00,FALSE,Cipla,allopathy,strip of 10 tablets,Salbutamol (2mg),Theophylline (100mg)
+123,Chest Tightness,Montair,95.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Montelukast (10mg),Levocetirizine (5mg)
+124,Back Stiffness,Flexura,100.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Methocarbamol (500mg),Paracetamol (500mg)
+125,Neck Pain,Nucoxia,120.00,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Etoricoxib (90mg),Paracetamol (500mg)
+126,Shoulder Pain,Brufen,80.00,FALSE,Abbott,allopathy,strip of 10 tablets,Ibuprofen (400mg),Paracetamol (325mg)
+127,Heel Pain,Calcimax,110.00,FALSE,Meyer Vitabiotics,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+128,Joint Stiffness,Movexx,115.00,FALSE,Alkem,allopathy,strip of 10 tablets,Glucosamine (500mg),Chondroitin (200mg)
+129,Leg Pain,Naproxen,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Naproxen (250mg),Paracetamol (325mg)
+130,Hand Pain,Paraflex,65.00,FALSE,Abbott,allopathy,strip of 10 tablets,Paracetamol (500mg),Ibuprofen (200mg)
+131,Foot Pain,Flexon-MR,95.00,FALSE,Alembic,allopathy,strip of 10 tablets,Paracetamol (500mg),Chlorzoxazone (250mg)
+132,Elbow Pain,Ibuprofen,60.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Ibuprofen (400mg),Paracetamol (325mg)
+133,Wrist Pain,Myoril,120.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Thiocolchicoside (4mg),Paracetamol (500mg)
+134,Finger Pain,Diclofenac,55.00,FALSE,Novartis,allopathy,strip of 10 tablets,Diclofenac (50mg),Paracetamol (325mg)
+135,Toe Pain,Paracetamol,50.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Ibuprofen (200mg)
+136,Redness,Betnovate,80.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Betamethasone (0.1%),Hydrocortisone (10mg)
+137,Burning Sensation,Lidocaine Gel,90.00,FALSE,Neon,allopathy,tube of 30g,Lidocaine (2%),Prilocaine (2.5%)
+138,Ulcer,Sucral,110.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Sucralfate (1g),Ranitidine (150mg)
+139,Blisters,Acyclovir,120.00,FALSE,Cipla,allopathy,strip of 10 tablets,Acyclovir (400mg),Paracetamol (500mg)
+140,Peeling Skin,Clotrimazole,70.00,FALSE,Bayer,allopathy,strip of 10 tablets,Clotrimazole (1%),Hydrocortisone (10mg)
+141,Dry Skin,Moisturex,60.00,FALSE,Sun Pharma,allopathy,tube of 100g,White Soft Paraffin (13.2g),Liquid Paraffin (10.4g)
+142,Cracked Heels,Krack Cream,55.00,FALSE,Curatio,allopathy,tube of 30g,Salicylic Acid (6%),Lanolin (2%)
+143,Sunburn,Aloe Vera Gel,65.00,FALSE,Patanjali,allopathy,tube of 60g,Aloe Vera Extract (90%),-
+144,Dark Circles,Retino-A,120.00,FALSE,Janssen,allopathy,tube of 20g,Tretinoin (0.05%),-
+145,Wrinkles,Olay Total Effects,150.00,FALSE,Procter & Gamble,allopathy,tube of 50g,Niacinamide (4%),Vitamin E (1%)
+146,Hair Loss,Mintop,180.00,FALSE,Dr. Reddy's,allopathy,bottle of 60ml,Minoxidil (5%),-
+147,Dandruff,Nizoral,90.00,FALSE,Janssen,allopathy,bottle of 100ml,Ketoconazole (2%),-
+148,Scalp Itching,Scalpe,85.00,FALSE,Glenmark,allopathy,bottle of 75ml,Climbazole (1%),Zinc Pyrithione (1%)
+149,Premature Greying,Trichup,120.00,FALSE,Vasu Healthcare,allopathy,bottle of 100ml,Bhringraj Extract (5%),Amla Extract (5%)
+150,Weakness,Ferrochel,60.00,FALSE,Alkem,allopathy,strip of 10 tablets,Ferrous Bisglycinate (100mg),Folic Acid (1mg)
+151,Low Energy,Calcirol,75.00,FALSE,Cipla,allopathy,strip of 10 tablets,Vitamin D3 (1000IU),-
+152,Loss of Concentration,Cognitol,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Piracetam (400mg),-
+153,Forgetfulness,Mecobalamin,95.00,FALSE,Abbott,allopathy,strip of 10 tablets,Methylcobalamin (500mcg),-
+154,Confusion,Folic Acid,50.00,FALSE,Alkem,allopathy,strip of 10 tablets,Folic Acid (1mg),-
+155,Insomnia,Meloset,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Melatonin (3mg),-
+156,Restlessness,Restyl,85.00,FALSE,Cipla,allopathy,strip of 10 tablets,Alprazolam (0.25mg),-
+157,Anxiety,Stresnil,100.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Sertraline (50mg),-
+158,Depression,Depilox,130.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Amoxapine (50mg),-
+159,Low Mood,Flunil,120.00,FALSE,Intas,allopathy,strip of 10 tablets,Fluoxetine (20mg),-
+160,Anger,Serenace,110.00,FALSE,Ranbaxy,allopathy,strip of 10 tablets,Haloperidol (5mg),-
+161,Irritability,Clonotril,90.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Clonazepam (0.5mg),-
+162,Stress,Ashwagandha,80.00,FALSE,Himalaya,allopathy,strip of 10 tablets,Ashwagandha Extract (250mg),-
+163,Low Immunity,Livogen,60.00,FALSE,Merck,allopathy,strip of 10 tablets,Iron (100mg),Vitamin C (50mg)
+164,Frequent Infections,Limcee,55.00,FALSE,Abbott,allopathy,strip of 10 tablets,Vitamin C (500mg),-
+165,Frequent Urination,Urotone,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Bethanechol (25mg),-
+166,Burning Urination,Cranpac,110.00,FALSE,Alkem,allopathy,strip of 10 tablets,Cranberry Extract (300mg),Potassium Citrate (1100mg)
+167,Urinary Retention,Tamlocept,130.00,FALSE,Intas,allopathy,strip of 10 tablets,Tamsulosin (0.4mg),Finasteride (5mg)
+168,Nocturia,Desmotabs,140.00,FALSE,Ferring,allopathy,strip of 10 tablets,Desmopressin (0.1mg),Tolterodine (2mg)
+169,Incontinence,Soliten,150.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Solifenacin (5mg),Oxybutynin (5mg)
+170,Menstrual Irregularity,Deviry,90.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Medroxyprogesterone (10mg),Ethinyl Estradiol (0.03mg)
+171,Heavy Periods,Tranexa,100.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Tranexamic Acid (500mg),Mefenamic Acid (250mg)
+172,Light Periods,Folinal,80.00,FALSE,Intas,allopathy,strip of 10 tablets,Folic Acid (1mg),Vitamin B12 (500mcg)
+174,Spotting,Vitamin K,70.00,FALSE,Alkem,allopathy,strip of 10 tablets,Vitamin K (5mg),Tranexamic Acid (500mg)
+175,Hot Flashes,Clonidine,120.00,FALSE,Unichem,allopathy,strip of 10 tablets,Clonidine (0.1mg),Vitamin E (400mg)
+176,Night Sweats,Vitamin B6,60.00,FALSE,Abbott,allopathy,strip of 10 tablets,Vitamin B6 (20mg),Vitamin D3 (1000IU)
+179,Hoarseness,Ambrolite,70.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Ambroxol (30mg),Guaifenesin (100mg)
+180,Voice Change,Bromhexine,65.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Bromhexine (8mg),Ambroxol (30mg)
+181,Difficulty Swallowing,Domstal,90.00,FALSE,Cipla,allopathy,strip of 10 tablets,Domperidone (10mg),Pantoprazole (40mg)
+182,Eye Redness,Naphcon-A,120.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.1%),Antazoline (0.5%)
+183,Eye Pain,Flur,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (50mg),-
+184,Blurred Vision,Ocuvite,130.00,FALSE,Bausch & Lomb,allopathy,strip of 10 tablets,Lutein (10mg),Vitamin A (5000IU)
+185,Double Vision,Mecobalamin,95.00,FALSE,Abbott,allopathy,strip of 10 tablets,Methylcobalamin (500mcg),-
+186,Photophobia,Olopat,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (5mg),-
+187,Tearing,Refresh Tears,80.00,FALSE,Allergan,allopathy,bottle of 10ml,Carboxymethylcellulose (0.5%),-
+188,Dry Eyes,Tears Naturale,85.00,FALSE,Alcon,allopathy,bottle of 10ml,Hypromellose (0.3%),-
+189,Eye Discharge,Ocuflox,90.00,FALSE,Allergan,allopathy,bottle of 5ml,Ofloxacin (0.3%),-
+190,Ear Discharge,Ciplox-D,95.00,FALSE,Cipla,allopathy,bottle of 10ml,Ciprofloxacin (0.3%),Dexamethasone (0.1%)
+200,Ear Fullness,Betavert,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Betahistine (16mg),-
+201,Body Pain,Combiflam,65.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Ibuprofen (400mg),Paracetamol (325mg)
+202,Constipation,Cremaffin,80.00,FALSE,Abbott,allopathy,bottle of 200 ml Syrup,Liquid Paraffin (1.25ml),Milk of Magnesia (3.75ml)
+203,Heartburn,Omez,120.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Omeprazole (20mg),-
+204,Indigestion,Enzoflam,55.00,FALSE,Alkem,allopathy,strip of 10 tablets,Fungal Diastase (50mg),Pepsin (10mg)
+205,Diarrhea,Norflox-TZ,60.00,FALSE,Cipla,allopathy,strip of 10 tablets,Norfloxacin (400mg),Tinidazole (600mg)
+206,Acidity,Pan 40,70.00,FALSE,Alkem,allopathy,strip of 10 tablets,Pantoprazole (40mg),-
+207,Muscle Pain,Volini,90.00,FALSE,Sun Pharma,allopathy,tube of 30g,Diclofenac Diethylamine (1.16%),Menthol (5%)
+208,Swelling,Chymoral Forte,85.00,FALSE,Torrent,allopathy,strip of 10 tablets,Trypsin-Chymotrypsin (100000AU),-
+209,Itching,Avil,75.00,FALSE,SANOFI,allopathy,strip of 10 tablets,Pheniramine (25mg),-
+210,Runny Nose,Sinarest,60.00,FALSE,Centaur,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (10mg)
+211,Sneezing,Allegra-M,55.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Fexofenadine (120mg),Montelukast (10mg)
+212,Watery Eyes,Pataday,120.00,FALSE,Alcon,allopathy,bottle of 5ml,Olopatadine (0.2%),-
+213,Loss of Appetite,Periactin,65.00,FALSE,Merck,allopathy,strip of 10 tablets,Cyproheptadine (4mg),-
+214,Stomach Pain,Meftal Spas,70.00,FALSE,Blue Cross,allopathy,strip of 10 tablets,Mefenamic Acid (250mg),Dicyclomine (20mg)
+215,Gas,Gasex,50.00,FALSE,Himalaya,allopathy,strip of 10 tablets,Herbal Blend,Simethicone (80mg)
+216,Bloating,Espumisan,85.00,FALSE,Bayer,allopathy,strip of 10 tablets,Simethicone (40mg),-
+217,Cramping,Spasmoproxyvon,90.00,FALSE,Wockhardt,allopathy,strip of 10 tablets,Dicyclomine (10mg),Paracetamol (325mg)
+218,Loose Motion,Enteroquinol,55.00,FALSE,Abbott,allopathy,strip of 10 tablets,Iodoquinol (250mg),-
+219,Dehydration,ORS,40.00,FALSE,FDC,allopathy,pack of 21g Sachet,ORS Salts,Glucose (3.5g)
+220,Dizziness,Stugeron,110.00,FALSE,Janssen,allopathy,strip of 10 tablets,Cinnarizine (25mg),-
+221,Palpitations,Inderal,120.00,FALSE,Abbott,allopathy,strip of 10 tablets,Propranolol (40mg),-
+222,Shortness of Breath,Levolin,85.00,FALSE,Cipla,allopathy,strip of 10 tablets,Levosalbutamol (2mg),-
+223,Chest Tightness,Foracort,95.00,FALSE,Cipla,allopathy,strip of 10 tablets,Formoterol (6mcg),Budesonide (200mcg)
+224,Back Stiffness,Myospaz Forte,100.00,FALSE,Win-Medicare,allopathy,strip of 10 tablets,Chlorzoxazone (500mg),Paracetamol (500mg)
+225,Neck Pain,Etoshine,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Etoricoxib (60mg),-
+226,Shoulder Pain,Flexabenz,80.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Cyclobenzaprine (10mg),-
+227,Heel Pain,Calcigen D,110.00,FALSE,Abbott,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+228,Joint Stiffness,Rejoint,115.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (500mg),Chondroitin (200mg)
+229,Leg Pain,Naxdom,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Naproxen (250mg),Domperidone (10mg)
+230,Hand Pain,Paracip,65.00,FALSE,Ipca,allopathy,strip of 10 tablets,Paracetamol (500mg),-
+231,Foot Pain,Flexilor,95.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Lornoxicam (8mg),Paracetamol (325mg)
+232,Elbow Pain,Nucoxia-P,60.00,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Etoricoxib (60mg),Paracetamol (325mg)
+233,Wrist Pain,Myolgin,120.00,FALSE,Aristo,allopathy,strip of 10 tablets,Paracetamol (500mg),Chlorzoxazone (250mg)
+234,Finger Pain,Dicloran,55.00,FALSE,Medley,allopathy,strip of 10 tablets,Diclofenac (50mg),-
+235,Toe Pain,Pacimol,50.00,FALSE,Ipca,allopathy,strip of 10 tablets,Paracetamol (500mg),-
+236,Redness,Elocon,80.00,FALSE,MSD,allopathy,tube of 10g,Mometasone (0.1%),-
+237,Burning Sensation,Prilox,90.00,FALSE,Neon,allopathy,tube of 30g,Lidocaine (2.5%),Prilocaine (2.5%)
+238,Ulcer,Ulgel,110.00,FALSE,Ipca,allopathy,bottle of 200ml,Aluminium Hydroxide (250mg),Magnesium Hydroxide (250mg)
+239,Blisters,Zovirax,120.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Acyclovir (400mg),-
+240,Peeling Skin,Canesten,70.00,FALSE,Bayer,allopathy,strip of 10 tablets,Clotrimazole (1%),-
+241,Dry Skin,Venusia Max,60.00,FALSE,Dr. Reddy's,allopathy,tube of 100g,Aloe Vera (10%),Vitamin E (0.5%)
+242,Cracked Heels,Heel Balm,55.00,FALSE,Curatio,allopathy,tube of 30g,Dimethicone (10%),Lanolin (2%)
+243,Sunburn,Sunban,65.00,FALSE,Cadila,allopathy,tube of 60g,Zinc Oxide (10%),Titanium Dioxide (5%)
+244,Dark Circles,Melaglow,120.00,FALSE,Abbott,allopathy,tube of 20g,Kojic Acid (2%),Vitamin C (1%)
+245,Wrinkles,Retino-X,150.00,FALSE,Sun Pharma,allopathy,tube of 20g,Retinol (0.5%),Vitamin E (1%)
+246,Hair Loss,Finpecia,180.00,FALSE,Cipla,allopathy,strip of 10 tablets,Finasteride (1mg),-
+247,Dandruff,Selsun,90.00,FALSE,Abbott,allopathy,bottle of 100ml,Selenium Sulfide (2.5%),-
+248,Scalp Itching,Scalpmed,85.00,FALSE,Sun Pharma,allopathy,bottle of 75ml,Climbazole (1%),Zinc Pyrithione (1%)
+249,Premature Greying,Tricho,120.00,FALSE,Sun Pharma,allopathy,bottle of 100ml,Biotin (5mg),Amla Extract (5%)
+250,Weakness,Bevon,60.00,FALSE,Zuventus,allopathy,strip of 10 tablets,Multivitamins,Iron (100mg)
+251,Low Energy,Calcimax Forte,75.00,FALSE,Meyer Vitabiotics,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+252,Loss of Concentration,Neurobion Forte,110.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin B1 (10mg),Vitamin B12 (500mcg)
+253,Forgetfulness,Neurokind,95.00,FALSE,Intas,allopathy,strip of 10 tablets,Methylcobalamin (500mcg),Folic Acid (1mg)
+254,Confusion,Neurobion,50.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin B1 (10mg),Vitamin B6 (3mg)
+255,Insomnia,Restyl,120.00,FALSE,Cipla,allopathy,strip of 10 tablets,Alprazolam (0.25mg),-
+256,Restlessness,Ativan,85.00,FALSE,Wyeth,allopathy,strip of 10 tablets,Lorazepam (1mg),-
+257,Anxiety,Clonotril,100.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Clonazepam (0.5mg),-
+258,Depression,Depaxil,130.00,FALSE,Intas,allopathy,strip of 10 tablets,Paroxetine (20mg),-
+259,Low Mood,Serlift,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Sertraline (50mg),-
+260,Anger,Haloperidol,110.00,FALSE,Ranbaxy,allopathy,strip of 10 tablets,Haloperidol (5mg),-
+261,Irritability,Oxetol,90.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Oxcarbazepine (300mg),-
+262,Stress,Serenace,80.00,FALSE,Ranbaxy,allopathy,strip of 10 tablets,Haloperidol (5mg),-
+263,Low Immunity,Supradyn,60.00,FALSE,Bayer,allopathy,strip of 10 tablets,Multivitamins,Vitamin C (50mg)
+264,Frequent Infections,Limcee Chewable,55.00,FALSE,Abbott,allopathy,strip of 10 tablets,Vitamin C (500mg),-
+265,Frequent Urination,Urimax,120.00,FALSE,Cipla,allopathy,strip of 10 tablets,Tamsulosin (0.4mg),-
+266,Burning Urination,Alkasol,110.00,FALSE,Marck,allopathy,bottle of 200ml,Potassium Citrate (1100mg),Sodium Citrate (334mg)
+267,Urinary Retention,Finast,130.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Finasteride (5mg),-
+268,Nocturia,Minirin,140.00,FALSE,Ferring,allopathy,strip of 10 tablets,Desmopressin (0.1mg),-
+269,Incontinence,Solifenacin,150.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Solifenacin (5mg),-
+270,Menstrual Irregularity,Regestrone,90.00,FALSE,Novartis,allopathy,strip of 10 tablets,Norethisterone (5mg),-
+271,Heavy Periods,Pause,100.00,FALSE,Emcure,allopathy,strip of 10 tablets,Tranexamic Acid (500mg),-
+272,Light Periods,Folivite,80.00,FALSE,Wyeth,allopathy,strip of 10 tablets,Folic Acid (5mg),-
+273,Painful Periods,Spasmoproxyvon Plus,110.00,FALSE,Wockhardt,allopathy,strip of 10 tablets,Dicyclomine (10mg),Paracetamol (325mg)
+274,Spotting,Meprate,70.00,FALSE,Serum Institute,allopathy,strip of 10 tablets,Medroxyprogesterone (10mg),-
+275,Hot Flashes,Menorest,120.00,FALSE,Abbott,allopathy,strip of 10 tablets,Clonidine (0.1mg),-
+276,Night Sweats,Neurobion Plus,60.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin B6 (3mg),Vitamin B12 (500mcg)
+277,Loss of Taste,Zincovit Plus,80.00,FALSE,Apex,allopathy,strip of 10 tablets,Zinc (20mg),Vitamin C (50mg)
+278,Loss of Smell,Maxirich Gold,85.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Vitamin A (5000IU),Vitamin E (400mg)
+279,Hoarseness,Ambrolex,70.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Ambroxol (30mg),-
+280,Voice Change,Bro-Zedex,65.00,FALSE,Wockhardt,allopathy,bottle of 100ml,Bromhexine (8mg),Guaifenesin (100mg)
+281,Difficulty Swallowing,Domperon,90.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Domperidone (10mg),-
+282,Eye Redness,Refresh Tears Plus,120.00,FALSE,Allergan,allopathy,bottle of 10ml,Carboxymethylcellulose (0.5%),-
+283,Eye Pain,Flurbin,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (50mg),-
+284,Blurred Vision,Ocuvite Lutein,130.00,FALSE,Bausch & Lomb,allopathy,strip of 10 tablets,Lutein (10mg),Vitamin A (5000IU)
+285,Double Vision,Neurobion Active,95.00,FALSE,Merck,allopathy,strip of 10 tablets,Methylcobalamin (500mcg),Vitamin B6 (3mg)
+286,Photophobia,Pataday Eye Drops,120.00,FALSE,Alcon,allopathy,bottle of 5ml,Olopatadine (0.2%),-
+287,Tearing,Tears Plus,80.00,FALSE,Sun Pharma,allopathy,bottle of 10ml,Carboxymethylcellulose (0.5%),-
+288,Dry Eyes,Optive,85.00,FALSE,Allergan,allopathy,bottle of 10ml,Carmellose Sodium (0.5%),-
+289,Eye Discharge,Ocuflox Plus,90.00,FALSE,Allergan,allopathy,bottle of 5ml,Ofloxacin (0.3%),-
+290,Ear Discharge,Ciplox Ear Drops,95.00,FALSE,Cipla,allopathy,bottle of 10ml,Ciprofloxacin (0.3%),-
+291,Ear Fullness,Betavert Forte,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Betahistine (24mg),-
+292,Hearing Loss,Neurobion Injection,120.00,FALSE,Merck,allopathy,ampoule of 1ml,Vitamin B12 (500mcg),Vitamin B6 (3mg)
+293,Tinnitus,Stugeron Forte,130.00,FALSE,Janssen,allopathy,strip of 10 tablets,Cinnarizine (75mg),-
+294,Vertigo,Vertin OD,140.00,FALSE,Abbott,allopathy,strip of 10 tablets,Betahistine (24mg),-
+295,Facial Pain,Carbamazepine,110.00,FALSE,Novartis,allopathy,strip of 10 tablets,Carbamazepine (200mg),-
+296,Facial Swelling,Predmet,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Prednisolone (5mg),-
+297,Facial Numbness,Gabapin,130.00,FALSE,Intas,allopathy,strip of 10 tablets,Gabapentin (300mg),-
+298,Facial Twitching,Clonotril MD,140.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Clonazepam (0.5mg),-
+299,Facial Redness,Elidel,150.00,FALSE,Novo Nordisk,allopathy,tube of 10g,Pimecrolimus (1%),-
+300,Facial Rash,Betnovate N,160.00,FALSE,GlaxoSmithKline,allopathy,tube of 20g,Betamethasone (0.1%),Neomycin (0.5%)
+301,Allergy,Cetrizine,60.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Cetirizine (10mg),-
+302,Allergic Rhinitis,Allegra,65.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Fexofenadine (120mg),-
+303,Hay Fever,Levocet,62.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Levocetirizine (5mg),-
+304,Itchy Eyes,Olopat,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (5mg),-
+305,Watery Eyes,Pataday,75.00,FALSE,Alcon,allopathy,bottle of 5ml,Olopatadine (0.2%),-
+306,Sinus Congestion,Nasivion,55.00,FALSE,Dr. Reddy's,allopathy,bottle of 10ml,Oxymetazoline (0.05%),-
+307,Seasonal Flu,Fluvir,80.00,FALSE,Cipla,allopathy,strip of 10 tablets,Oseltamivir (75mg),-
+308,Sore Throat,Septilin,60.00,FALSE,Himalaya,allopathy,strip of 10 tablets,Herbal Blend,-
+309,Throat Infection,Azithral,90.00,FALSE,Alembic,allopathy,strip of 10 tablets,Azithromycin (500mg),-
+310,Tonsillitis,Augmentin,120.00,FALSE,GSK,allopathy,strip of 10 tablets,Amoxicillin (500mg),Clavulanic Acid (125mg)
+311,Pharyngitis,Clarithro,95.00,FALSE,Abbott,allopathy,strip of 10 tablets,Clarithromycin (250mg),-
+312,Laryngitis,Azax,85.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Azithromycin (250mg),-
+313,Hoarseness,Voicegain,70.00,FALSE,Intas,allopathy,strip of 10 tablets,Bromhexine (8mg),-
+314,Cough,Bro-Zedex,65.00,FALSE,Wockhardt,allopathy,bottle of 100ml,Bromhexine (8mg),Guaifenesin (100mg)
+315,Dry Cough,Tusq-D,60.00,FALSE,Blue Cross,allopathy,bottle of 100ml,Dextromethorphan (10mg),Phenylephrine (5mg)
+316,Productive Cough,Ambrolite,70.00,FALSE,Dr. Reddy's,allopathy,bottle of 100ml,Ambroxol (30mg),Guaifenesin (100mg)
+317,Chest Congestion,Ascoril,75.00,FALSE,Glenmark,allopathy,bottle of 100ml,Salbutamol (2mg),Guaifenesin (100mg)
+318,Breathlessness,Levolin,85.00,FALSE,Cipla,allopathy,strip of 10 tablets,Levosalbutamol (2mg),-
+319,Wheezing,Foracort,95.00,FALSE,Cipla,allopathy,strip of 10 tablets,Formoterol (6mcg),Budesonide (200mcg)
+320,Palpitations,Cardace,100.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Ramipril (5mg),-
+321,High Cholesterol,Atorva,120.00,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Atorvastatin (10mg),-
+322,High Triglycerides,Fenolip,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Fenofibrate (160mg),-
+323,Obesity,Orlistat,150.00,FALSE,Cipla,allopathy,strip of 10 tablets,Orlistat (120mg),-
+324,Weight Loss,Ensure,180.00,FALSE,Abbott,allopathy,tin of 400g,Protein Blend,Multivitamins
+325,Weight Gain,Protinex,170.00,FALSE,Danone,allopathy,tin of 400g,Protein Blend,Multivitamins
+326,Appetite Loss,Periactin,65.00,FALSE,Merck,allopathy,strip of 10 tablets,Cyproheptadine (4mg),-
+327,Nausea,Emeset,60.00,FALSE,Cipla,allopathy,strip of 10 tablets,Ondansetron (4mg),-
+328,Vomiting,Domstal,65.00,FALSE,Cipla,allopathy,strip of 10 tablets,Domperidone (10mg),-
+329,Motion Sickness,Stugeron,70.00,FALSE,Janssen,allopathy,strip of 10 tablets,Cinnarizine (25mg),-
+330,Vertigo,Vertin,75.00,FALSE,Abbott,allopathy,strip of 10 tablets,Betahistine (16mg),-
+331,Dizziness,Meclizine,80.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Meclizine (25mg),-
+332,Low Blood Pressure,Midodrine,90.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Midodrine (2.5mg),-
+333,High Blood Pressure,Amlodac,100.00,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Amlodipine (5mg),-
+334,Edema,Lasix,110.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Furosemide (40mg),-
+335,Fluid Retention,Aldactone,120.00,FALSE,Pfizer,allopathy,strip of 10 tablets,Spironolactone (25mg),-
+336,Swelling,Chymoral Forte,85.00,FALSE,Torrent,allopathy,strip of 10 tablets,Trypsin-Chymotrypsin (100000AU),-
+337,Muscle Cramps,Calcimax,110.00,FALSE,Meyer Vitabiotics,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+338,Muscle Weakness,Neurobion Forte,115.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin B1 (10mg),Vitamin B12 (500mcg)
+339,Joint Pain,Rejoint,120.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (500mg),Chondroitin (200mg)
+340,Arthritis,SAAZ,130.00,FALSE,Ipca,allopathy,strip of 10 tablets,Sulfasalazine (500mg),-
+341,Osteoporosis,Bonista,150.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Teriparatide (250mcg),-
+342,Fracture Pain,Tramacet,160.00,FALSE,Janssen,allopathy,strip of 10 tablets,Tramadol (37.5mg),Paracetamol (325mg)
+343,Toothache,Metrogyl DG,70.00,FALSE,J.B. Chemicals,allopathy,strip of 10 tablets,Metronidazole (400mg),Chlorhexidine (0.2%)
+344,Gum Bleeding,Hexidine,65.00,FALSE,ICPA,allopathy,bottle of 100ml,Chlorhexidine (0.2%),-
+345,Oral Ulcers,Dologel,60.00,FALSE,Dr. Reddy's,allopathy,tube of 15g,Benzocaine (20mg),Choline Salicylate (8.7mg)
+346,Bad Breath,Tongue Cleaner,40.00,FALSE,Colgate,allopathy,pack of 1,Plastic,-
+347,Sensitive Teeth,Sensodyne,90.00,FALSE,GSK,allopathy,tube of 100g,Potassium Nitrate (5%),Sodium Fluoride (0.24%)
+348,Eye Infection,Tobramycin,120.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.3%),-
+349,Eye Allergy,Alaway,110.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.025%),-
+350,Eye Dryness,Optive,85.00,FALSE,Allergan,allopathy,bottle of 10ml,Carmellose Sodium (0.5%),-
+351,Eye Pain,Flurbin,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (50mg),-
+352,Red Eyes,Naphcon-A,120.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.1%),Antazoline (0.5%)
+353,Blurred Vision,Ocuvite Lutein,130.00,FALSE,Bausch & Lomb,allopathy,strip of 10 tablets,Lutein (10mg),Vitamin A (5000IU)
+354,Double Vision,Neurobion Active,95.00,FALSE,Merck,allopathy,strip of 10 tablets,Methylcobalamin (500mcg),Vitamin B6 (3mg)
+355,Photophobia,Pataday Eye Drops,120.00,FALSE,Alcon,allopathy,bottle of 5ml,Olopatadine (0.2%),-
+356,Tearing,Tears Plus,80.00,FALSE,Sun Pharma,allopathy,bottle of 10ml,Carboxymethylcellulose (0.5%),-
+357,Dry Eyes,Optive Fusion,90.00,FALSE,Allergan,allopathy,bottle of 10ml,Sodium Hyaluronate (0.1%),-
+358,Eye Discharge,Ocuflox Plus,90.00,FALSE,Allergan,allopathy,bottle of 5ml,Ofloxacin (0.3%),-
+359,Ear Infection,Ciplox Ear Drops,95.00,FALSE,Cipla,allopathy,bottle of 10ml,Ciprofloxacin (0.3%),-
+360,Ear Pain,Otek-AC,80.00,FALSE,Sun Pharma,allopathy,bottle of 10ml,Lidocaine (2%),Chloramphenicol (0.5%)
+361,Hearing Loss,Neurobion Injection,120.00,FALSE,Merck,allopathy,ampoule of 1ml,Vitamin B12 (500mcg),Vitamin B6 (3mg)
+362,Tinnitus,Stugeron Forte,130.00,FALSE,Janssen,allopathy,strip of 10 tablets,Cinnarizine (75mg),-
+363,Vertigo,Vertin OD,140.00,FALSE,Abbott,allopathy,strip of 10 tablets,Betahistine (24mg),-
+364,Facial Pain,Carbamazepine,110.00,FALSE,Novartis,allopathy,strip of 10 tablets,Carbamazepine (200mg),-
+365,Facial Swelling,Predmet,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Prednisolone (5mg),-
+366,Facial Numbness,Gabapin,130.00,FALSE,Intas,allopathy,strip of 10 tablets,Gabapentin (300mg),-
+367,Facial Twitching,Clonotril MD,140.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Clonazepam (0.5mg),-
+368,Facial Redness,Elidel,150.00,FALSE,Novo Nordisk,allopathy,tube of 10g,Pimecrolimus (1%),-
+369,Facial Rash,Betnovate N,160.00,FALSE,GlaxoSmithKline,allopathy,tube of 20g,Betamethasone (0.1%),Neomycin (0.5%)
+370,Acne,Clindac-A,90.00,FALSE,Galderma,allopathy,tube of 20g,Clindamycin (1%),-
+371,Pimples,Benzac AC,85.00,FALSE,Galderma,allopathy,tube of 20g,Benzoyl Peroxide (2.5%),-
+372,Blackheads,Retino-A,120.00,FALSE,Janssen,allopathy,tube of 20g,Tretinoin (0.05%),-
+373,Whiteheads,Acnil,80.00,FALSE,Ipca,allopathy,tube of 20g,Nicotinamide (4%),Zinc Oxide (1%)
+374,Dark Spots,Demelan,110.00,FALSE,Glenmark,allopathy,tube of 20g,Kojic Acid (2%),Glycolic Acid (10%)
+375,Pigmentation,Melaglow,120.00,FALSE,Abbott,allopathy,tube of 20g,Kojic Acid (2%),Vitamin C (1%)
+376,Sunburn,Sunban,65.00,FALSE,Cadila,allopathy,tube of 60g,Zinc Oxide (10%),Titanium Dioxide (5%)
+377,Wrinkles,Retino-X,150.00,FALSE,Sun Pharma,allopathy,tube of 20g,Retinol (0.5%),Vitamin E (1%)
+378,Hair Loss,Finpecia,180.00,FALSE,Cipla,allopathy,strip of 10 tablets,Finasteride (1mg),-
+379,Dandruff,Selsun,90.00,FALSE,Abbott,allopathy,bottle of 100ml,Selenium Sulfide (2.5%),-
+380,Scalp Itching,Scalpmed,85.00,FALSE,Sun Pharma,allopathy,bottle of 75ml,Climbazole (1%),Zinc Pyrithione (1%)
+381,Premature Greying,Tricho,120.00,FALSE,Sun Pharma,allopathy,bottle of 100ml,Biotin (5mg),Amla Extract (5%)
+382,Weakness,Bevon,60.00,FALSE,Zuventus,allopathy,strip of 10 tablets,Multivitamins,Iron (100mg)
+383,Low Energy,Calcimax Forte,75.00,FALSE,Meyer Vitabiotics,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+384,Loss of Concentration,Neurobion Forte,110.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin B1 (10mg),Vitamin B12 (500mcg)
+385,Forgetfulness,Neurokind,95.00,FALSE,Intas,allopathy,strip of 10 tablets,Methylcobalamin (500mcg),Folic Acid (1mg)
+386,Confusion,Neurobion,50.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin B1 (10mg),Vitamin B6 (3mg)
+387,Insomnia,Restyl,120.00,FALSE,Cipla,allopathy,strip of 10 tablets,Alprazolam (0.25mg),-
+388,Restlessness,Ativan,85.00,FALSE,Wyeth,allopathy,strip of 10 tablets,Lorazepam (1mg),-
+389,Anxiety,Clonotril,100.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Clonazepam (0.5mg),-
+390,Depression,Depaxil,130.00,FALSE,Intas,allopathy,strip of 10 tablets,Paroxetine (20mg),-
+391,Low Mood,Serlift,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Sertraline (50mg),-
+392,Anger,Haloperidol,110.00,FALSE,Ranbaxy,allopathy,strip of 10 tablets,Haloperidol (5mg),-
+393,Irritability,Oxetol,90.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Oxcarbazepine (300mg),-
+394,Stress,Serenace,80.00,FALSE,Ranbaxy,allopathy,strip of 10 tablets,Haloperidol (5mg),-
+395,Low Immunity,Supradyn,60.00,FALSE,Bayer,allopathy,strip of 10 tablets,Multivitamins,Vitamin C (50mg)
+396,Frequent Infections,Limcee Chewable,55.00,FALSE,Abbott,allopathy,strip of 10 tablets,Vitamin C (500mg),-
+397,Frequent Urination,Urimax,120.00,FALSE,Cipla,allopathy,strip of 10 tablets,Tamsulosin (0.4mg),-
+398,Burning Urination,Alkasol,110.00,FALSE,Marck,allopathy,bottle of 200ml,Potassium Citrate (1100mg),Sodium Citrate (334mg)
+399,Urinary Retention,Finast,130.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Finasteride (5mg),-
+400,Nocturia,Minirin,140.00,FALSE,Ferring,allopathy,strip of 10 tablets,Desmopressin (0.1mg),-
+401,Allergic Conjunctivitis,Alaway,120.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.025%),-
+402,Psoriasis,Psorid,180.00,FALSE,Cipla,allopathy,strip of 10 tablets,Acitretin (25mg),-
+403,Eczema,Elidel,150.00,FALSE,Novo Nordisk,allopathy,tube of 10g,Pimecrolimus (1%),-
+404,Shingles,Zovirax,130.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Acyclovir (400mg),-
+405,Herpes Simplex,Valtrex,160.00,FALSE,GSK,allopathy,strip of 10 tablets,Valacyclovir (500mg),-
+406,Chickenpox,Viravax,140.00,FALSE,Serum Institute,allopathy,strip of 10 tablets,Acyclovir (400mg),-
+407,Measles,Vitamin A,60.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin A (5000IU),-
+408,Mumps,Paracetamol,50.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),-
+409,Rabies,Rabipur,250.00,FALSE,Chiron Behring,allopathy,vial,Rabies Vaccine,-
+410,Malaria,Lariago,90.00,FALSE,Ipca,allopathy,strip of 10 tablets,Chloroquine (250mg),-
+411,Dengue,Caripill,110.00,FALSE,Mega Lifesciences,allopathy,strip of 10 tablets,Carica Papaya Leaf Extract (1100mg),-
+412,Typhoid,Cefspan,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Cefixime (200mg),-
+413,Cholera,Doxy-1,80.00,FALSE,Micro Labs,allopathy,strip of 10 tablets,Doxycycline (100mg),-
+414,Tuberculosis,AKT-4,150.00,FALSE,Cipla,allopathy,strip of 10 tablets,Isoniazid (300mg),Rifampicin (450mg)
+415,Leprosy,Dapsone,70.00,FALSE,Alembic,allopathy,strip of 10 tablets,Dapsone (100mg),-
+416,Filariasis,Hetrazan,90.00,FALSE,Pfizer,allopathy,strip of 10 tablets,Diethylcarbamazine (100mg),-
+417,Leishmaniasis,Miltefos,200.00,FALSE,Cadila,allopathy,strip of 10 tablets,Miltefosine (50mg),-
+418,Schistosomiasis,Praziquantel,120.00,FALSE,Bayer,allopathy,strip of 10 tablets,Praziquantel (600mg),-
+419,Ascariasis,Mebex,60.00,FALSE,Cipla,allopathy,strip of 10 tablets,Mebendazole (100mg),-
+420,Hookworm Infection,Albendazole,65.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Albendazole (400mg),-
+421,Trichuriasis,Combantrin,70.00,FALSE,Pfizer,allopathy,strip of 10 tablets,Pyrantel (250mg),-
+422,Strongyloidiasis,Ivermectin,90.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Ivermectin (12mg),-
+423,Taeniasis,Niclosamide,80.00,FALSE,Bayer,allopathy,strip of 10 tablets,Niclosamide (500mg),-
+424,Cysticercosis,Albendazole,65.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Albendazole (400mg),-
+425,Giardiasis,Tinidazole,70.00,FALSE,Cipla,allopathy,strip of 10 tablets,Tinidazole (300mg),-
+426,Amoebiasis,Flagyl,60.00,FALSE,Alembic,allopathy,strip of 10 tablets,Metronidazole (400mg),-
+427,Trichomoniasis,Secnidazole,75.00,FALSE,Alkem,allopathy,strip of 10 tablets,Secnidazole (500mg),-
+428,Bacterial Vaginosis,Clindamycin,90.00,FALSE,Abbott,allopathy,strip of 10 tablets,Clindamycin (300mg),-
+429,Candidiasis,Fluconazole,80.00,FALSE,Cipla,allopathy,strip of 10 tablets,Fluconazole (150mg),-
+430,Oral Thrush,Nystatin,85.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Nystatin (500000IU),-
+431,Otitis Media,Augmentin,120.00,FALSE,GSK,allopathy,strip of 10 tablets,Amoxicillin (500mg),Clavulanic Acid (125mg)
+432,Sinus Infection,Azithral,90.00,FALSE,Alembic,allopathy,strip of 10 tablets,Azithromycin (500mg),-
+433,Pharyngitis,Clarithro,95.00,FALSE,Abbott,allopathy,strip of 10 tablets,Clarithromycin (250mg),-
+434,Laryngitis,Azax,85.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Azithromycin (250mg),-
+435,Bronchitis,Levoflox,100.00,FALSE,Cipla,allopathy,strip of 10 tablets,Levofloxacin (500mg),-
+436,Pneumonia,Azithral,90.00,FALSE,Alembic,allopathy,strip of 10 tablets,Azithromycin (500mg),-
+437,Emphysema,Tiova,120.00,FALSE,Cipla,allopathy,strip of 10 tablets,Tiotropium (18mcg),-
+438,Pleurisy,Ibuprofen,60.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Ibuprofen (400mg),-
+439,Pericarditis,Colchicine,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Colchicine (0.5mg),-
+440,Endocarditis,Vancomycin,200.00,FALSE,Cipla,allopathy,strip of 10 tablets,Vancomycin (500mg),-
+441,Myocarditis,Prednisolone,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Prednisolone (5mg),-
+442,Arrhythmia,Amiodarone,150.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Amiodarone (200mg),-
+443,Angina,Nitrostat,80.00,FALSE,Troikaa,allopathy,strip of 10 tablets,Nitroglycerin (2.6mg),-
+444,Stroke,Clopitab,90.00,FALSE,USV,allopathy,strip of 10 tablets,Clopidogrel (75mg),-
+445,Epilepsy,Valparin,110.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Sodium Valproate (500mg),-
+446,Parkinson's Disease,Syndopa,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Levodopa (100mg),Carbidopa (25mg)
+447,Multiple Sclerosis,Interferon,200.00,FALSE,Biogen,allopathy,strip of 10 tablets,Interferon beta-1a (22mcg),-
+448,Prostate Enlargement,Finasteride,130.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Finasteride (5mg),-
+449,Endometriosis,Dienogest,140.00,FALSE,Bayer,allopathy,strip of 10 tablets,Dienogest (2mg),-
+450,Menopause,Menorest,120.00,FALSE,Abbott,allopathy,strip of 10 tablets,Clonidine (0.1mg),-
+451,Premenstrual Syndrome,Meftal Spas,110.00,FALSE,Blue Cross,allopathy,strip of 10 tablets,Mefenamic Acid (250mg),Dicyclomine (20mg)
+452,Polycystic Ovary Syndrome,Metformin XR,120.00,FALSE,Solaris,allopathy,strip of 10 tablets,Metformin (500mg),-
+453,Infertility,Clomiphene,150.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Clomiphene (50mg),-
+454,Impotence,Sildenafil,180.00,FALSE,Cipla,allopathy,strip of 10 tablets,Sildenafil (50mg),-
+455,Erectile Dysfunction,Tadalafil,200.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Tadalafil (20mg),-
+456,Premature Ejaculation,Dapoxetine,160.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Dapoxetine (30mg),-
+457,Benign Prostatic Hyperplasia,Tamsulosin,120.00,FALSE,Intas,allopathy,strip of 10 tablets,Tamsulosin (0.4mg),-
+458,Urinary Tract Infection,Ciprofloxacin,90.00,FALSE,Cipla,allopathy,strip of 10 tablets,Ciprofloxacin (500mg),-
+459,Bladder Infection,Nitrofurantoin,100.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Nitrofurantoin (100mg),-
+460,Renal Failure,Calcium Acetate,120.00,FALSE,Abbott,allopathy,strip of 10 tablets,Calcium Acetate (667mg),-
+461,Anemia,Ferric Carboxymaltose,150.00,FALSE,Emcure,allopathy,strip of 10 tablets,Ferric Carboxymaltose (500mg),-
+462,Iron Deficiency,Ferrochel,60.00,FALSE,Alkem,allopathy,strip of 10 tablets,Ferrous Bisglycinate (100mg),Folic Acid (1mg)
+463,Folic Acid Deficiency,Folinal,80.00,FALSE,Intas,allopathy,strip of 10 tablets,Folic Acid (1mg),-
+464,Vitamin B12 Deficiency,Mecobalamin,95.00,FALSE,Abbott,allopathy,strip of 10 tablets,Methylcobalamin (500mcg),-
+465,Vitamin D Deficiency,Calcirol,75.00,FALSE,Cipla,allopathy,strip of 10 tablets,Vitamin D3 (1000IU),-
+466,Scurvy,Limcee,55.00,FALSE,Abbott,allopathy,strip of 10 tablets,Vitamin C (500mg),-
+467,Rickets,Calcium Sandoz,90.00,FALSE,Novartis,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+468,Osteomalacia,Calcium Sandoz,90.00,FALSE,Novartis,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+469,Goiter,Thyronorm,100.00,FALSE,Abbott,allopathy,strip of 10 tablets,Levothyroxine (50mcg),-
+470,Hypothyroidism,Thyronorm,100.00,FALSE,Abbott,allopathy,strip of 10 tablets,Levothyroxine (50mcg),-
+471,Hyperthyroidism,Carbimazole,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Carbimazole (10mg),-
+472,Thyroiditis,Prednisolone,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Prednisolone (5mg),-
+473,Acne Vulgaris,Clindac-A,90.00,FALSE,Galderma,allopathy,tube of 20g,Clindamycin (1%),-
+474,Melasma,Demelan,110.00,FALSE,Glenmark,allopathy,tube of 20g,Kojic Acid (2%),Glycolic Acid (10%)
+475,Vitiligo,Melgain,150.00,FALSE,Dr. Reddy's,allopathy,bottle of 10ml,Deca Peptide (0.1%),-
+476,Hives,Atarax,75.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Hydroxyzine (25mg),-
+477,Contact Dermatitis,Betnovate,80.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Betamethasone (0.1%),-
+478,Sun Allergy,Sunban,65.00,FALSE,Cadila,allopathy,tube of 60g,Zinc Oxide (10%),Titanium Dioxide (5%)
+479,Insect Bite,Calamine Lotion,60.00,FALSE,Piramal,allopathy,bottle of 100ml,Calamine (8%),Zinc Oxide (0.5%)
+480,Scabies,Permite,70.00,FALSE,Glenmark,allopathy,tube of 60g,Permethrin (5%),-
+481,Head Lice,Mediker,55.00,FALSE,Marico,allopathy,bottle of 100ml,Permethrin (1%),-
+482,Hair Dandruff,Nizoral,90.00,FALSE,Janssen,allopathy,bottle of 100ml,Ketoconazole (2%),-
+483,Hair Fall,Mintop,180.00,FALSE,Dr. Reddy's,allopathy,bottle of 60ml,Minoxidil (5%),-
+484,Premature Hair Greying,Trichup,120.00,FALSE,Vasu Healthcare,allopathy,bottle of 100ml,Bhringraj Extract (5%),Amla Extract (5%)
+485,Split Ends,Trichup Serum,130.00,FALSE,Vasu Healthcare,allopathy,bottle of 100ml,Argan Oil (2%),Vitamin E (1%)
+486,Weak Nails,Evion,60.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin E (400mg),-
+487,Brittle Nails,Calcium Sandoz,90.00,FALSE,Novartis,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+488,Yellow Nails,Fluconazole,80.00,FALSE,Cipla,allopathy,strip of 10 tablets,Fluconazole (150mg),-
+489,Fungal Nail Infection,Onabet,120.00,FALSE,Glenmark,allopathy,tube of 20g,Sertaconazole (2%),-
+490,Ingrown Toenail,Betadine,70.00,FALSE,Win-Medicare,allopathy,tube of 20g,Povidone Iodine (10%),-
+491,Foot Corn,Corncap,60.00,FALSE,Dr. Reddy's,allopathy,pack of 4 pads,Salicylic Acid (40%),-
+492,Plantar Fasciitis,Orthofit,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Diclofenac (50mg),-
+493,Heel Spur,Calcigen D,110.00,FALSE,Abbott,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+494,Calluses,Moisturex,60.00,FALSE,Sun Pharma,allopathy,tube of 100g,White Soft Paraffin (13.2g),Liquid Paraffin (10.4g)
+495,Blister,Betadine,70.00,FALSE,Win-Medicare,allopathy,tube of 20g,Povidone Iodine (10%),-
+496,Chapped Lips,Boroline,50.00,FALSE,Boroline,allopathy,tube of 20g,Borax (0.5%),-
+497,Cold Sores,Zovirax,120.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Acyclovir (400mg),-
+498,Stye,Tobramycin,120.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.3%),-
+499,Eye Swelling,Pred Forte,130.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (1%),-
+500,Eye Itching,Olopat,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (5mg),-
+501,Anal Fissure,Anovate,75.00,FALSE,Dr. Reddy's,allopathy,tube of 20g,Lidocaine (2%),Hydrocortisone (0.25%)
+502,Anal Itching,Proctosedyl,80.00,FALSE,Sanofi,allopathy,tube of 20g,Hydrocortisone (0.5%),Cinchocaine (5mg)
+503,Anal Pain,Shield,85.00,FALSE,Curatio,allopathy,tube of 20g,Lidocaine (2%),Zinc Oxide (5%)
+504,Anal Swelling,Preparation H,90.00,FALSE,Pfizer,allopathy,tube of 20g,Phenylephrine (0.25%),Witch Hazel (10%)
+505,Anal Bleeding,Recticare,95.00,FALSE,Win-Medicare,allopathy,tube of 20g,Lidocaine (5%),-
+506,Anal Discomfort,Anusol,100.00,FALSE,GlaxoSmithKline,allopathy,tube of 20g,Zinc Oxide (10%),Bismuth Subgallate (2.25%)
+507,Anal Burning,Calmoseptine,105.00,FALSE,Calmoseptine,allopathy,tube of 20g,Calamine (8%),Menthol (0.44%)
+508,Anal Ulcer,Proctosedyl Suppository,110.00,FALSE,Sanofi,allopathy,pack of 10 suppositories,Hydrocortisone (5mg),Cinchocaine (5mg)
+509,Anal Abscess,Augmentin Duo,115.00,FALSE,GSK,allopathy,strip of 10 tablets,Amoxicillin (500mg),Clavulanic Acid (125mg)
+510,Anal Infection,Metrogyl,120.00,FALSE,J.B. Chemicals,allopathy,strip of 10 tablets,Metronidazole (400mg),-
+511,Anal Rash,Betnovate,125.00,FALSE,GlaxoSmithKline,allopathy,tube of 20g,Betamethasone (0.1%),-
+512,Anal Redness,Elocon,130.00,FALSE,MSD,allopathy,tube of 10g,Mometasone (0.1%),-
+513,Anal Lump,Anovate Suppository,135.00,FALSE,Dr. Reddy's,allopathy,pack of 10 suppositories,Lidocaine (5mg),Hydrocortisone (5mg)
+514,Anal Soreness,Proctosedyl Ointment,140.00,FALSE,Sanofi,allopathy,tube of 20g,Hydrocortisone (0.5%),Cinchocaine (5mg)
+515,Anal Discharge,Candid Cream,145.00,FALSE,Glenmark,allopathy,tube of 20g,Clotrimazole (1%),-
+516,Anal Irritation,Calamine Lotion,150.00,FALSE,Piramal,allopathy,bottle of 100ml,Calamine (8%),Zinc Oxide (0.5%)
+517,Anal Dryness,Venusia Max,155.00,FALSE,Dr. Reddy's,allopathy,tube of 100g,Aloe Vera (10%),Vitamin E (0.5%)
+518,Anal Cracking,Krack Cream,160.00,FALSE,Curatio,allopathy,tube of 30g,Salicylic Acid (6%),Lanolin (2%)
+519,Anal Blister,Zovirax,165.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Acyclovir (400mg),-
+520,Anal Peeling,Canesten,170.00,FALSE,Bayer,allopathy,strip of 10 tablets,Clotrimazole (1%),-
+521,Anal Chafing,Boroline,175.00,FALSE,Boroline,allopathy,tube of 20g,Borax (0.5%),-
+522,Anal Soreness,Shield Cream,180.00,FALSE,Curatio,allopathy,tube of 20g,Lidocaine (2%),Zinc Oxide (5%)
+523,Anal Tenderness,Preparation H Suppository,185.00,FALSE,Pfizer,allopathy,pack of 10 suppositories,Phenylephrine (0.25%),Witch Hazel (10%)
+524,Anal Stinging,Calmoseptine Ointment,190.00,FALSE,Calmoseptine,allopathy,tube of 20g,Calamine (8%),Menthol (0.44%)
+525,Anal Lesion,Betnovate-N,195.00,FALSE,GlaxoSmithKline,allopathy,tube of 20g,Betamethasone (0.1%),Neomycin (0.5%)
+526,Anal Ulceration,Proctosedyl Cream,200.00,FALSE,Sanofi,allopathy,tube of 20g,Hydrocortisone (0.5%),Cinchocaine (5mg)
+527,Anal Papule,Anovate Cream,205.00,FALSE,Dr. Reddy's,allopathy,tube of 20g,Lidocaine (2%),Hydrocortisone (0.25%)
+528,Anal Nodule,Preparation H Cream,210.00,FALSE,Pfizer,allopathy,tube of 20g,Phenylephrine (0.25%),Witch Hazel (10%)
+529,Anal Erosion,Elocon Cream,215.00,FALSE,MSD,allopathy,tube of 10g,Mometasone (0.1%),-
+530,Anal Excoriation,Calamine Lotion,220.00,FALSE,Piramal,allopathy,bottle of 100ml,Calamine (8%),Zinc Oxide (0.5%)
+531,Anal Maceration,Venusia Max Cream,225.00,FALSE,Dr. Reddy's,allopathy,tube of 100g,Aloe Vera (10%),Vitamin E (0.5%)
+532,Anal Ulcerative Pain,Proctosedyl Suppository,230.00,FALSE,Sanofi,allopathy,pack of 10 suppositories,Hydrocortisone (5mg),Cinchocaine (5mg)
+533,Anal Ulcerative Bleeding,Augmentin Duo,235.00,FALSE,GSK,allopathy,strip of 10 tablets,Amoxicillin (500mg),Clavulanic Acid (125mg)
+534,Anal Ulcerative Infection,Metrogyl,240.00,FALSE,J.B. Chemicals,allopathy,strip of 10 tablets,Metronidazole (400mg),-
+535,Anal Ulcerative Rash,Betnovate,245.00,FALSE,GlaxoSmithKline,allopathy,tube of 20g,Betamethasone (0.1%),-
+536,Anal Ulcerative Redness,Elocon,250.00,FALSE,MSD,allopathy,tube of 10g,Mometasone (0.1%),-
+537,Anal Ulcerative Lump,Anovate Suppository,255.00,FALSE,Dr. Reddy's,allopathy,pack of 10 suppositories,Lidocaine (5mg),Hydrocortisone (5mg)
+538,Anal Ulcerative Soreness,Proctosedyl Ointment,260.00,FALSE,Sanofi,allopathy,tube of 20g,Hydrocortisone (0.5%),Cinchocaine (5mg)
+539,Anal Ulcerative Discharge,Candid Cream,265.00,FALSE,Glenmark,allopathy,tube of 20g,Clotrimazole (1%),-
+540,Anal Ulcerative Irritation,Calamine Lotion,270.00,FALSE,Piramal,allopathy,bottle of 100ml,Calamine (8%),Zinc Oxide (0.5%)
+541,Anal Ulcerative Dryness,Venusia Max,275.00,FALSE,Dr. Reddy's,allopathy,tube of 100g,Aloe Vera (10%),Vitamin E (0.5%)
+542,Anal Ulcerative Cracking,Krack Cream,280.00,FALSE,Curatio,allopathy,tube of 30g,Salicylic Acid (6%),Lanolin (2%)
+543,Anal Ulcerative Blister,Zovirax,285.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Acyclovir (400mg),-
+544,Anal Ulcerative Peeling,Canesten,290.00,FALSE,Bayer,allopathy,strip of 10 tablets,Clotrimazole (1%),-
+545,Anal Ulcerative Chafing,Boroline,295.00,FALSE,Boroline,allopathy,tube of 20g,Borax (0.5%),-
+546,Anal Ulcerative Soreness,Shield Cream,300.00,FALSE,Curatio,allopathy,tube of 20g,Lidocaine (2%),Zinc Oxide (5%)
+547,Anal Ulcerative Tenderness,Preparation H Suppository,305.00,FALSE,Pfizer,allopathy,pack of 10 suppositories,Phenylephrine (0.25%),Witch Hazel (10%)
+548,Anal Ulcerative Stinging,Calmoseptine Ointment,310.00,FALSE,Calmoseptine,allopathy,tube of 20g,Calamine (8%),Menthol (0.44%)
+549,Anal Ulcerative Lesion,Betnovate-N,315.00,FALSE,GlaxoSmithKline,allopathy,tube of 20g,Betamethasone (0.1%),Neomycin (0.5%)
+550,Anal Ulcerative Ulceration,Proctosedyl Cream,320.00,FALSE,Sanofi,allopathy,tube of 20g,Hydrocortisone (0.5%),Cinchocaine (5mg)
+551,Anal Ulcerative Papule,Anovate Cream,325.00,FALSE,Dr. Reddy's,allopathy,tube of 20g,Lidocaine (2%),Hydrocortisone (0.25%)
+552,Anal Ulcerative Nodule,Preparation H Cream,330.00,FALSE,Pfizer,allopathy,tube of 20g,Phenylephrine (0.25%),Witch Hazel (10%)
+553,Anal Ulcerative Erosion,Elocon Cream,335.00,FALSE,MSD,allopathy,tube of 10g,Mometasone (0.1%),-
+554,Anal Ulcerative Excoriation,Calamine Lotion,340.00,FALSE,Piramal,allopathy,bottle of 100ml,Calamine (8%),Zinc Oxide (0.5%)
+555,Anal Ulcerative Maceration,Venusia Max Cream,345.00,FALSE,Dr. Reddy's,allopathy,tube of 100g,Aloe Vera (10%),Vitamin E (0.5%)
+556,Anal Ulcerative Ulcerative Pain,Proctosedyl Suppository,350.00,FALSE,Sanofi,allopathy,pack of 10 suppositories,Hydrocortisone (5mg),Cinchocaine (5mg)
+557,Anal Ulcerative Ulcerative Bleeding,Augmentin Duo,355.00,FALSE,GSK,allopathy,strip of 10 tablets,Amoxicillin (500mg),Clavulanic Acid (125mg)
+558,Anal Ulcerative Ulcerative Infection,Metrogyl,360.00,FALSE,J.B. Chemicals,allopathy,strip of 10 tablets,Metronidazole (400mg),-
+559,Anal Ulcerative Ulcerative Rash,Betnovate,365.00,FALSE,GlaxoSmithKline,allopathy,tube of 20g,Betamethasone (0.1%),-
+560,Anal Ulcerative Ulcerative Redness,Elocon,370.00,FALSE,MSD,allopathy,tube of 10g,Mometasone (0.1%),-
+561,Anal Ulcerative Ulcerative Lump,Anovate Suppository,375.00,FALSE,Dr. Reddy's,allopathy,pack of 10 suppositories,Lidocaine (5mg),Hydrocortisone (5mg)
+562,Anal Ulcerative Ulcerative Soreness,Proctosedyl Ointment,380.00,FALSE,Sanofi,allopathy,tube of 20g,Hydrocortisone (0.5%),Cinchocaine (5mg)
+563,Anal Ulcerative Ulcerative Discharge,Candid Cream,385.00,FALSE,Glenmark,allopathy,tube of 20g,Clotrimazole (1%),-
+564,Anal Ulcerative Ulcerative Irritation,Calamine Lotion,390.00,FALSE,Piramal,allopathy,bottle of 100ml,Calamine (8%),Zinc Oxide (0.5%)
+565,Anal Ulcerative Ulcerative Dryness,Venusia Max,395.00,FALSE,Dr. Reddy's,allopathy,tube of 100g,Aloe Vera (10%),Vitamin E (0.5%)
+566,Anal Ulcerative Ulcerative Cracking,Krack Cream,400.00,FALSE,Curatio,allopathy,tube of 30g,Salicylic Acid (6%),Lanolin (2%)
+567,Anal Ulcerative Ulcerative Blister,Zovirax,405.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Acyclovir (400mg),-
+568,Anal Ulcerative Ulcerative Peeling,Canesten,410.00,FALSE,Bayer,allopathy,strip of 10 tablets,Clotrimazole (1%),-
+569,Anal Ulcerative Ulcerative Chafing,Boroline,415.00,FALSE,Boroline,allopathy,tube of 20g,Borax (0.5%),-
+570,Anal Ulcerative Ulcerative Soreness,Shield Cream,420.00,FALSE,Curatio,allopathy,tube of 20g,Lidocaine (2%),Zinc Oxide (5%)
+571,Anal Ulcerative Ulcerative Tenderness,Preparation H Suppository,425.00,FALSE,Pfizer,allopathy,pack of 10 suppositories,Phenylephrine (0.25%),Witch Hazel (10%)
+572,Anal Ulcerative Ulcerative Stinging,Calmoseptine Ointment,430.00,FALSE,Calmoseptine,allopathy,tube of 20g,Calamine (8%),Menthol (0.44%)
+573,Anal Ulcerative Ulcerative Lesion,Betnovate-N,435.00,FALSE,GlaxoSmithKline,allopathy,tube of 20g,Betamethasone (0.1%),Neomycin (0.5%)
+574,Anal Ulcerative Ulcerative Ulceration,Proctosedyl Cream,440.00,FALSE,Sanofi,allopathy,tube of 20g,Hydrocortisone (0.5%),Cinchocaine (5mg)
+575,Anal Ulcerative Ulcerative Papule,Anovate Cream,445.00,FALSE,Dr. Reddy's,allopathy,tube of 20g,Lidocaine (2%),Hydrocortisone (0.25%)
+576,Anal Ulcerative Ulcerative Nodule,Preparation H Cream,450.00,FALSE,Pfizer,allopathy,tube of 20g,Phenylephrine (0.25%),Witch Hazel (10%)
+577,Anal Ulcerative Ulcerative Erosion,Elocon Cream,455.00,FALSE,MSD,allopathy,tube of 10g,Mometasone (0.1%),-
+578,Anal Ulcerative Ulcerative Excoriation,Calamine Lotion,460.00,FALSE,Piramal,allopathy,bottle of 100ml,Calamine (8%),Zinc Oxide (0.5%)
+579,Anal Ulcerative Ulcerative Maceration,Venusia Max Cream,465.00,FALSE,Dr. Reddy's,allopathy,tube of 100g,Aloe Vera (10%),Vitamin E (0.5%)
+580,Anal Ulcerative Ulcerative Ulcerative Pain,Proctosedyl Suppository,470.00,FALSE,Sanofi,allopathy,pack of 10 suppositories,Hydrocortisone (5mg),Cinchocaine (5mg)
+581,Anal Ulcerative Ulcerative Ulcerative Bleeding,Augmentin Duo,475.00,FALSE,GSK,allopathy,strip of 10 tablets,Amoxicillin (500mg),Clavulanic Acid (125mg)
+582,Anal Ulcerative Ulcerative Ulcerative Infection,Metrogyl,480.00,FALSE,J.B. Chemicals,allopathy,strip of 10 tablets,Metronidazole (400mg),-
+583,Anal Ulcerative Ulcerative Ulcerative Rash,Betnovate,485.00,FALSE,GlaxoSmithKline,allopathy,tube of 20g,Betamethasone (0.1%),-
+584,Anal Ulcerative Ulcerative Ulcerative Redness,Elocon,490.00,FALSE,MSD,allopathy,tube of 10g,Mometasone (0.1%),-
+585,Anal Ulcerative Ulcerative Ulcerative Lump,Anovate Suppository,495.00,FALSE,Dr. Reddy's,allopathy,pack of 10 suppositories,Lidocaine (5mg),Hydrocortisone (5mg)
+586,Anal Ulcerative Ulcerative Ulcerative Soreness,Proctosedyl Ointment,500.00,FALSE,Sanofi,allopathy,tube of 20g,Hydrocortisone (0.5%),Cinchocaine (5mg)
+587,Anal Ulcerative Ulcerative Ulcerative Discharge,Candid Cream,505.00,FALSE,Glenmark,allopathy,tube of 20g,Clotrimazole (1%),-
+588,Anal Ulcerative Ulcerative Ulcerative Irritation,Calamine Lotion,510.00,FALSE,Piramal,allopathy,bottle of 100ml,Calamine (8%),Zinc Oxide (0.5%)
+589,Anal Ulcerative Ulcerative Ulcerative Dryness,Venusia Max,515.00,FALSE,Dr. Reddy's,allopathy,tube of 100g,Aloe Vera (10%),Vitamin E (0.5%)
+590,Anal Ulcerative Ulcerative Ulcerative Cracking,Krack Cream,520.00,FALSE,Curatio,allopathy,tube of 30g,Salicylic Acid (6%),Lanolin (2%)
+591,Anal Ulcerative Ulcerative Ulcerative Blister,Zovirax,525.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Acyclovir (400mg),-
+592,Anal Ulcerative Ulcerative Ulcerative Peeling,Canesten,530.00,FALSE,Bayer,allopathy,strip of 10 tablets,Clotrimazole (1%),-
+593,Anal Ulcerative Ulcerative Ulcerative Chafing,Boroline,535.00,FALSE,Boroline,allopathy,tube of 20g,Borax (0.5%),-
+594,Anal Ulcerative Ulcerative Ulcerative Soreness,Shield Cream,540.00,FALSE,Curatio,allopathy,tube of 20g,Lidocaine (2%),Zinc Oxide (5%)
+595,Anal Ulcerative Ulcerative Ulcerative Tenderness,Preparation H Suppository,545.00,FALSE,Pfizer,allopathy,pack of 10 suppositories,Phenylephrine (0.25%),Witch Hazel (10%)
+596,Anal Ulcerative Ulcerative Ulcerative Stinging,Calmoseptine Ointment,550.00,FALSE,Calmoseptine,allopathy,tube of 20g,Calamine (8%),Menthol (0.44%)
+597,Anal Ulcerative Ulcerative Ulcerative Lesion,Betnovate-N,555.00,FALSE,GlaxoSmithKline,allopathy,tube of 20g,Betamethasone (0.1%),Neomycin (0.5%)
+598,Anal Ulcerative Ulcerative Ulcerative Ulceration,Proctosedyl Cream,560.00,FALSE,Sanofi,allopathy,tube of 20g,Hydrocortisone (0.5%),Cinchocaine (5mg)
+599,Anal Ulcerative Ulcerative Ulcerative Papule,Anovate Cream,565.00,FALSE,Dr. Reddy's,allopathy,tube of 20g,Lidocaine (2%),Hydrocortisone (0.25%)
+600,Anal Ulcerative Ulcerative Ulcerative Nodule,Preparation H Cream,570.00,FALSE,Pfizer,allopathy,tube of 20g,Phenylephrine (0.25%),Witch Hazel (10%)
+601,Fever,Crocin Advance,52.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+602,Fever,Tylenol Extra,58.00,FALSE,Johnson & Johnson,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (30mg)
+603,Fever,Paracip Plus,62.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+604,Cold,Coldrex Plus,47.00,FALSE,Johnson & Johnson,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+605,Cold,Nasivion Forte,50.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+606,Cold,Sinutab Extra,53.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+607,Asthma,Asthalin Plus,182.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Hydroxyzine (25mg),Levocetirizine (5mg)
+608,Asthma,Flexhaler Forte,192.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),Budesonide (200mcg)
+609,Asthma,Budeson Forte,187.00,FALSE,Dr. Reddy's,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+610,Chest Pain,Ibucure Plus,162.00,FALSE,Alembic Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+611,Chest Pain,Combiflam CP Forte,172.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+612,Chest Pain,Brufen Extra,167.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+613,Sinusitis,Sinarest Forte,235.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Dicyclomine (20mg),Simethicone (125mg)
+614,Sinusitis,Sinutab Plus,247.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+615,Sinusitis,Nasivion Forte Plus,222.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+616,Kidney Stone,Uroban Plus,96.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+617,Kidney Stone,Renostone Forte,112.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+618,Kidney Stone,Nephrocare XR,107.00,FALSE,Alembic Pharmaceuticals,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+619,Diabetes,Metformin XR Plus,122.00,FALSE,Solaris,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+620,Diabetes,Glucofort XR,127.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+621,Diabetes,Diabeta Forte,132.00,FALSE,Solaris,allopathy,strip of 10 tablets,Glyburide (5mg),Metformin (500mg)
+622,Hypertension,Lisinopril Plus,112.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Lisinopril (10mg),Hydrochlorothiazide (12.5mg)
+623,Hypertension,Losar Forte,117.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+624,Hypertension,Tenoretic Plus,122.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+625,Back Pain,Flexon Plus,152.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+626,Back Pain,Mobiflex Forte,157.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+627,Back Pain,Nurofen XR,162.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+628,Headache,Excedrin Plus,52.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+629,Headache,Panadol Extra,57.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (30mg)
+630,Headache,Acetamin Forte,62.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+631,Cold,Vicks Cold Plus,50.00,FALSE,Procter & Gamble,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+632,Cold,Clarinase XR,52.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+633,Cold,Allegra D,54.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Fexofenadine (180mg),Pseudoephedrine (120mg)
+634,Fever,Tylenol Plus,57.00,FALSE,Johnson & Johnson,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (30mg)
+635,Fever,Calpol Plus,59.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+636,Fever,Paracip XR,62.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+637,Asthma,Ventolin Plus,187.00,FALSE,GSK,allopathy,pack of 20 capsules,Salbutamol (100mcg),Ipratropium (20mcg)
+638,Asthma,Serevent XR,192.00,FALSE,Solaris,allopathy,pack of 20 capsules,Salmeterol (50mcg),Fluticasone (250mcg)
+639,Asthma,Symbicort Forte,197.00,FALSE,Alembic,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+640,Chest Pain,Novafen Plus,167.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+641,Chest Pain,Cardipain Forte,172.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+642,Chest Pain,Corfen XR,177.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+643,Sinusitis,Allersin Plus,232.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+644,Sinusitis,Rhinosin Forte,242.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+645,Sinusitis,Sinumax XR,252.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+646,Kidney Stone,Urikid XR,102.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+647,Kidney Stone,Renalol Plus,107.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+648,Kidney Stone,Nephrostin XR,112.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+649,Diabetes,Glucophage XR,122.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+650,Diabetes,Glycomet Plus,127.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+651,Diabetes,Metforal Plus,132.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+652,Hypertension,Capoten Plus,112.00,FALSE,Merck,allopathy,strip of 10 tablets,Captopril (25mg),Hydrochlorothiazide (12.5mg)
+653,Hypertension,Losar-50 Plus,117.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+654,Hypertension,Bisotab XR,122.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+655,Back Pain,Mobic Plus,152.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+656,Back Pain,Flexurin Forte,157.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+657,Back Pain,Relafen XR,162.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+658,Headache,Panamax Plus,52.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+659,Headache,Headex Forte,57.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (30mg)
+660,Headache,Parafast XR,62.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+661,Cold,RhinoFlu Plus,50.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+662,Cold,Nasoforte XR,52.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+663,Cold,Coldplus Forte,54.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+664,Fever,Fervex XR,57.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+665,Fever,Paracare Plus,59.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+666,Fever,Tempra XR,62.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+667,Asthma,Brovair XR,187.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+668,Asthma,Aerolin Forte,192.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),Ipratropium (20mcg)
+669,Asthma,Budenoforte XR,197.00,FALSE,Sun Pharma,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+670,Chest Pain,Cardiflam XR,167.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+671,Chest Pain,Novopain Plus,172.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+672,Chest Pain,Corafen Forte,177.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+673,Sinusitis,Sinucold XR,232.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+674,Sinusitis,Rhinoset Plus,242.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+675,Sinusitis,Sinufix Forte,252.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+676,Kidney Stone,Urikid Plus XR,102.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+677,Kidney Stone,Renalol XR Plus,107.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+678,Kidney Stone,Nephrostin Plus XR,112.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+679,Diabetes,Glucoheal Plus,122.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+680,Diabetes,Diafex XR,127.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+681,Diabetes,Metforal XR Plus,132.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+682,Hypertension,Lisinex Plus,112.00,FALSE,Merck,allopathy,strip of 10 tablets,Lisinopril (10mg),Hydrochlorothiazide (12.5mg)
+683,Hypertension,Losartan Plus XR,117.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+684,Hypertension,Bisoprolol XR Plus,122.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+685,Back Pain,Flexo Plus,152.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+686,Back Pain,Mobicare Forte,157.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+687,Back Pain,Relaflex XR,162.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+688,Headache,Headstop Plus,52.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+689,Headache,Panax Forte,57.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (30mg)
+690,Headache,Aceta XR,62.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+691,Cold,Rhinoflu Plus,50.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+692,Cold,Nasoclear XR,52.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+693,Cold,Coldaway Forte,54.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+694,Fever,Fervex Plus XR,57.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+695,Fever,Parafev Plus,59.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+696,Fever,Tempra Plus XR,62.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+697,Asthma,Brovair Plus XR,187.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+698,Asthma,Aerolin Plus Forte,192.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),Ipratropium (20mcg)
+699,Asthma,Budenoforte Plus XR,197.00,FALSE,Sun Pharma,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+700,Chest Pain,Cardiflam Plus XR,167.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+701,Chest Pain,Novopain XR Plus,172.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+702,Chest Pain,Corafen Plus Forte,177.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+703,Sinusitis,Sinucold Plus XR,232.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+704,Sinusitis,Rhinoset XR Plus,242.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+705,Sinusitis,Sinufix Plus Forte,252.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+706,Kidney Stone,Urikid Plus Forte,102.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+707,Kidney Stone,Renalol XR Plus Forte,107.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+708,Kidney Stone,Nephrostin Plus XR Forte,112.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+709,Diabetes,Glucoheal XR Plus,122.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+710,Diabetes,Diafex Plus XR,127.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+711,Diabetes,Metforal XR Plus Forte,132.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+712,Hypertension,Lisinex XR Plus,112.00,FALSE,Merck,allopathy,strip of 10 tablets,Lisinopril (10mg),Hydrochlorothiazide (12.5mg)
+713,Hypertension,Losartan Plus XR Forte,117.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+714,Hypertension,Bisoprolol XR Plus Forte,122.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+715,Back Pain,Flexo Plus XR,152.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+716,Back Pain,Mobicare Plus Forte,157.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+717,Back Pain,Relaflex Plus XR,162.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+718,Headache,Headstop Plus XR,52.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+719,Headache,Panax Plus Forte,57.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (30mg)
+720,Headache,Aceta Plus XR,62.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+721,Fever,Paracetamol Advance,54.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+722,Fever,Paracetamol Plus,56.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+723,Fever,Paracetamol Extra,58.00,FALSE,Alembic,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+724,Fever,Tylenol Forte,60.00,FALSE,Johnson & Johnson,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (30mg)
+725,Fever,Calpol Advance,62.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (30mg)
+726,Fever,Paracip Advance,64.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+727,Cold,Coldrex Advance,49.00,FALSE,Johnson & Johnson,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+728,Cold,Nasivion Extra,51.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+729,Cold,Sinutab Advance,53.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+730,Asthma,Asthalin XR,183.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Hydroxyzine (25mg),Levocetirizine (5mg)
+731,Asthma,Flexhaler XR,193.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),Budesonide (200mcg)
+732,Asthma,Budeson XR,188.00,FALSE,Dr. Reddy's,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+733,Chest Pain,Ibucure XR,163.00,FALSE,Alembic Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+734,Chest Pain,Combiflam CP XR,173.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+735,Chest Pain,Brufen XR,168.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+736,Sinusitis,Sinarest XR,236.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Dicyclomine (20mg),Simethicone (125mg)
+737,Sinusitis,Sinutab Plus XR,248.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+738,Sinusitis,Nasivion Forte XR,223.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+739,Kidney Stone,Uroban XR,97.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+740,Kidney Stone,Renostone XR,113.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+741,Kidney Stone,Nephrocare Plus,108.00,FALSE,Alembic Pharmaceuticals,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+742,Diabetes,Metformin XR Forte,123.00,FALSE,Solaris,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+743,Diabetes,Glucofort Plus,128.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+744,Diabetes,Diabeta XR,133.00,FALSE,Solaris,allopathy,strip of 10 tablets,Glyburide (5mg),Metformin (500mg)
+745,Hypertension,Lisinopril XR,113.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Lisinopril (10mg),Hydrochlorothiazide (12.5mg)
+746,Hypertension,Losar XR,118.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+747,Hypertension,Tenoretic XR,123.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+748,Back Pain,Flexon XR,153.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+749,Back Pain,Mobiflex XR,158.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+750,Back Pain,Nurofen Plus,163.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+751,Headache,Excedrin XR,53.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+752,Headache,Panadol XR,58.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+753,Headache,Acetamin XR,63.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+754,Cold,Vicks Cold XR,51.00,FALSE,Procter & Gamble,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+755,Cold,Clarinase Plus,53.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+756,Cold,Allegra XR,55.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Fexofenadine (180mg),Pseudoephedrine (120mg)
+757,Fever,Tylenol XR,61.00,FALSE,Johnson & Johnson,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (30mg)
+758,Fever,Calpol XR,63.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (30mg)
+759,Fever,Paracip Forte,65.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+760,Asthma,Ventolin XR,186.00,FALSE,GSK,allopathy,pack of 20 capsules,Salbutamol (100mcg),Levocetirizine (5mg)
+761,Asthma,Serevent Plus,191.00,FALSE,Solaris,allopathy,pack of 20 capsules,Salmeterol (50mcg),Levocetirizine (5mg)
+762,Asthma,Symbicort XR,196.00,FALSE,Alembic,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+763,Chest Pain,Novafen XR,169.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+764,Chest Pain,Cardipain XR,174.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+765,Chest Pain,Corfen Plus,179.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+766,Sinusitis,Allersin XR,231.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+767,Sinusitis,Rhinosin XR,241.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+768,Sinusitis,Sinumax Plus,251.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+769,Kidney Stone,Urikid Plus,101.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+770,Kidney Stone,Renalol Plus XR,106.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+771,Kidney Stone,Nephrostin XR Plus,111.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+772,Diabetes,Glucophage Plus,124.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+773,Diabetes,Glycomet XR,129.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+774,Diabetes,Metforal Plus XR,134.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+775,Hypertension,Capoten XR,114.00,FALSE,Merck,allopathy,strip of 10 tablets,Captopril (25mg),Hydrochlorothiazide (12.5mg)
+776,Hypertension,Losar-50 XR,119.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+777,Hypertension,Bisotab Plus,124.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+778,Back Pain,Mobic XR,153.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+779,Back Pain,Flexurin XR,158.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+780,Back Pain,Relafen Plus,163.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+781,Headache,Panamax XR,53.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+782,Headache,Headex XR,58.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+783,Headache,Parafast Plus,63.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+784,Cold,RhinoFlu XR,51.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+785,Cold,Nasoforte Plus,53.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+786,Cold,Coldplus XR,55.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+787,Fever,Fervex Plus,59.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+788,Fever,Paracare XR,61.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+789,Fever,Tempra Plus,63.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+790,Asthma,Brovair Plus,188.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+791,Asthma,Aerolin XR,193.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+792,Asthma,Budenoforte XR,198.00,FALSE,Sun Pharma,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+793,Chest Pain,Cardiflam Plus,168.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+794,Chest Pain,Novopain XR,173.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+795,Chest Pain,Corafen Plus,178.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+796,Sinusitis,Sinucold XR,233.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+797,Sinusitis,Rhinoset XR,243.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+798,Sinusitis,Sinufix Plus,253.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+799,Kidney Stone,Urikid XR Plus,103.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+800,Kidney Stone,Renalol Plus Forte,108.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+801,Kidney Stone,Nephrostin XR Forte,113.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+802,Diabetes,Glucoheal XR,125.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+803,Diabetes,Diafex Plus,130.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+804,Diabetes,Metforal XR Plus,135.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+805,Hypertension,Lisinex XR,115.00,FALSE,Merck,allopathy,strip of 10 tablets,Lisinopril (10mg),Hydrochlorothiazide (12.5mg)
+806,Hypertension,Losartan Plus XR,120.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+807,Hypertension,Bisoprolol XR Plus,125.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+808,Back Pain,Flexo XR,154.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+809,Back Pain,Mobicare XR,159.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+810,Back Pain,Relaflex Plus,164.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+811,Headache,Headstop XR,54.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+812,Headache,Panax XR,59.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+813,Headache,Aceta Plus,64.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+814,Cold,Rhinoflu XR,52.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+815,Cold,Nasoclear Plus,54.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+816,Cold,Coldaway XR,56.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+817,Fever,Fervex XR,60.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+818,Fever,Parafev XR,62.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+819,Fever,Tempra XR Plus,64.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+820,Asthma,Brovair XR Plus,189.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+821,Asthma,Aerolin XR Plus,194.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+822,Asthma,Budenoforte XR Plus,199.00,FALSE,Sun Pharma,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+823,Chest Pain,Cardiflam XR Plus,169.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+824,Chest Pain,Novopain XR Plus,174.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+825,Chest Pain,Corafen XR Plus,179.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+826,Sinusitis,Sinucold XR Plus,234.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+827,Sinusitis,Rhinoset XR Plus,244.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+828,Sinusitis,Sinufix XR Plus,254.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+829,Kidney Stone,Urikid XR Forte,104.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+830,Kidney Stone,Renalol XR Forte,109.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+831,Kidney Stone,Nephrostin XR Forte,114.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+832,Diabetes,Glucoheal XR Plus,126.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+833,Diabetes,Diafex XR Plus,131.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+834,Diabetes,Metforal XR Plus,136.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+835,Hypertension,Lisinex XR Plus,116.00,FALSE,Merck,allopathy,strip of 10 tablets,Lisinopril (10mg),Hydrochlorothiazide (12.5mg)
+836,Hypertension,Losartan XR Plus,121.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+837,Hypertension,Bisoprolol XR Plus,126.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+838,Back Pain,Flexo XR Plus,155.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+839,Back Pain,Mobicare XR Plus,160.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+840,Back Pain,Relaflex XR Plus,165.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+841,Headache,Headstop XR Plus,55.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+842,Headache,Panax XR Plus,60.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+843,Headache,Aceta XR Plus,65.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+844,Cold,Rhinoflu XR Plus,53.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+845,Cold,Nasoclear XR Plus,55.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+846,Cold,Coldaway XR Plus,57.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+847,Fever,Fervex XR Plus,62.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+848,Fever,Parafev XR Plus,64.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+849,Fever,Tempra XR Forte,66.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+850,Asthma,Brovair XR Forte,190.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+851,Asthma,Aerolin XR Forte,195.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+852,Asthma,Budenoforte XR Forte,200.00,FALSE,Sun Pharma,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+853,Chest Pain,Cardiflam XR Forte,170.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+854,Chest Pain,Novopain XR Forte,175.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+855,Chest Pain,Corafen XR Forte,180.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+856,Sinusitis,Sinucold XR Forte,235.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+857,Sinusitis,Rhinoset XR Forte,245.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+858,Sinusitis,Sinufix XR Forte,255.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+859,Kidney Stone,Urikid XR Plus Forte,105.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+860,Kidney Stone,Renalol XR Plus Forte,110.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+861,Kidney Stone,Nephrostin XR Plus Forte,115.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+862,Diabetes,Glucoheal XR Plus Forte,127.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+863,Diabetes,Diafex XR Plus Forte,132.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+864,Diabetes,Metforal XR Plus Forte,137.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+865,Hypertension,Lisinex XR Plus Forte,117.00,FALSE,Merck,allopathy,strip of 10 tablets,Lisinopril (10mg),Hydrochlorothiazide (12.5mg)
+866,Hypertension,Losartan XR Plus Forte,122.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+867,Hypertension,Bisoprolol XR Plus Forte,127.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+868,Back Pain,Flexo XR Plus Forte,156.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+869,Back Pain,Mobicare XR Plus Forte,161.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+870,Back Pain,Relaflex XR Plus Forte,166.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+871,Headache,Headstop XR Plus Forte,56.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+872,Headache,Panax XR Plus Forte,61.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+873,Headache,Aceta XR Plus Forte,66.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+874,Cold,Rhinoflu XR Plus Forte,54.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+875,Cold,Nasoclear XR Plus Forte,56.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+876,Cold,Coldaway XR Plus Forte,58.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+877,Fever,Fervex XR Plus Forte,63.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+878,Fever,Parafev XR Plus Forte,65.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+879,Fever,Tempra XR Plus Forte,67.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+880,Asthma,Brovair XR Plus Forte,191.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+881,Asthma,Aerolin XR Plus Forte,196.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+882,Asthma,Budenoforte XR Plus Forte,201.00,FALSE,Sun Pharma,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+883,Chest Pain,Cardiflam XR Plus Forte,171.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+884,Chest Pain,Novopain XR Plus Forte,176.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+885,Chest Pain,Corafen XR Plus Forte,181.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+886,Sinusitis,Sinucold XR Plus Forte,236.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+887,Sinusitis,Rhinoset XR Plus Forte,246.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+888,Sinusitis,Sinufix XR Plus Forte,256.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+889,Kidney Stone,Urikid XR Plus Forte Extra,106.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+890,Kidney Stone,Renalol XR Plus Forte Extra,111.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+891,Kidney Stone,Nephrostin XR Plus Forte Extra,116.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+892,Diabetes,Glucoheal XR Plus Forte Extra,128.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+893,Diabetes,Diafex XR Plus Forte Extra,133.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+894,Diabetes,Metforal XR Plus Forte Extra,138.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+895,Hypertension,Lisinex XR Plus Forte Extra,118.00,FALSE,Merck,allopathy,strip of 10 tablets,Lisinopril (10mg),Hydrochlorothiazide (12.5mg)
+896,Hypertension,Losartan XR Plus Forte Extra,123.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+897,Hypertension,Bisoprolol XR Plus Forte Extra,128.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+898,Back Pain,Flexo XR Plus Forte Extra,157.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+899,Back Pain,Mobicare XR Plus Forte Extra,162.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+900,Back Pain,Relaflex XR Plus Forte Extra,167.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+901,Headache,Headstop XR Plus Forte Extra,57.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+902,Headache,Panax XR Plus Forte Extra,62.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+903,Headache,Aceta XR Plus Forte Extra,67.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+904,Cold,Rhinoflu XR Plus Forte Extra,55.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+905,Cold,Nasoclear XR Plus Forte Extra,57.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+906,Cold,Coldaway XR Plus Forte Extra,59.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+907,Fever,Fervex XR Plus Forte Extra,64.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+908,Fever,Parafev XR Plus Forte Extra,66.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+909,Fever,Tempra XR Plus Forte Extra,68.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+910,Asthma,Brovair XR Plus Forte Extra,192.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+911,Asthma,Aerolin XR Plus Forte Extra,197.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+912,Asthma,Budenoforte XR Plus Forte Extra,202.00,FALSE,Sun Pharma,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+913,Chest Pain,Cardiflam XR Plus Forte Extra,172.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+914,Chest Pain,Novopain XR Plus Forte Extra,177.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+915,Chest Pain,Corafen XR Plus Forte Extra,182.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+916,Sinusitis,Sinucold XR Plus Forte Extra,237.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+917,Sinusitis,Rhinoset XR Plus Forte Extra,247.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+918,Sinusitis,Sinufix XR Plus Forte Extra,257.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+919,Kidney Stone,Urikid XR Plus Forte Max,107.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+920,Kidney Stone,Renalol XR Plus Forte Max,112.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+921,Kidney Stone,Nephrostin XR Plus Forte Max,117.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+922,Diabetes,Glucoheal XR Plus Forte Max,129.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+923,Diabetes,Diafex XR Plus Forte Max,134.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+924,Diabetes,Metforal XR Plus Forte Max,139.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+925,Hypertension,Lisinex XR Plus Forte Max,119.00,FALSE,Merck,allopathy,strip of 10 tablets,Lisinopril (10mg),Hydrochlorothiazide (12.5mg)
+926,Hypertension,Losartan XR Plus Forte Max,124.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+927,Hypertension,Bisoprolol XR Plus Forte Max,129.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+928,Back Pain,Flexo XR Plus Forte Max,158.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+929,Back Pain,Mobicare XR Plus Forte Max,163.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+930,Back Pain,Relaflex XR Plus Forte Max,168.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+931,Headache,Headstop XR Plus Forte Max,58.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+932,Headache,Panax XR Plus Forte Max,63.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+933,Headache,Aceta XR Plus Forte Max,68.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+934,Cold,Rhinoflu XR Plus Forte Max,57.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+935,Cold,Nasoclear XR Plus Forte Max,59.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+936,Cold,Coldaway XR Plus Forte Max,61.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+937,Fever,Fervex XR Plus Forte Max,65.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+938,Fever,Parafev XR Plus Forte Max,67.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+939,Fever,Tempra XR Plus Forte Max,69.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+940,Asthma,Brovair XR Plus Forte Max,193.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+941,Asthma,Aerolin XR Plus Forte Max,198.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+942,Asthma,Budenoforte XR Plus Forte Max,203.00,FALSE,Sun Pharma,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+943,Chest Pain,Cardiflam XR Plus Forte Max,173.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+944,Chest Pain,Novopain XR Plus Forte Max,178.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+945,Chest Pain,Corafen XR Plus Forte Max,183.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+946,Sinusitis,Sinucold XR Plus Forte Max,238.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+947,Sinusitis,Rhinoset XR Plus Forte Max,248.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+948,Sinusitis,Sinufix XR Plus Forte Max,258.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+949,Kidney Stone,Urikid XR Plus Forte Ultra,108.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+950,Kidney Stone,Renalol XR Plus Forte Ultra,113.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+951,Kidney Stone,Nephrostin XR Plus Forte Ultra,118.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+952,Diabetes,Glucoheal XR Plus Forte Ultra,130.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+953,Diabetes,Diafex XR Plus Forte Ultra,135.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+954,Diabetes,Metforal XR Plus Forte Ultra,140.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+955,Hypertension,Lisinex XR Plus Forte Ultra,120.00,FALSE,Merck,allopathy,strip of 10 tablets,Lisinopril (10mg),Hydrochlorothiazide (12.5mg)
+956,Hypertension,Losartan XR Plus Forte Ultra,125.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+957,Hypertension,Bisoprolol XR Plus Forte Ultra,130.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+958,Back Pain,Flexo XR Plus Forte Ultra,159.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+959,Back Pain,Mobicare XR Plus Forte Ultra,164.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+960,Back Pain,Relaflex XR Plus Forte Ultra,169.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+961,Headache,Headstop XR Plus Forte Ultra,59.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+962,Headache,Panax XR Plus Forte Ultra,64.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+963,Headache,Aceta XR Plus Forte Ultra,69.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+964,Cold,Rhinoflu XR Plus Forte Ultra,59.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+965,Cold,Nasoclear XR Plus Forte Ultra,61.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+966,Cold,Coldaway XR Plus Forte Ultra,63.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+967,Fever,Fervex XR Plus Forte Ultra,67.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+968,Fever,Parafev XR Plus Forte Ultra,69.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+969,Fever,Tempra XR Plus Forte Ultra,71.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+970,Asthma,Brovair XR Plus Forte Ultra,194.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+971,Asthma,Aerolin XR Plus Forte Ultra,199.00,FALSE,Cipla,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+972,Asthma,Budenoforte XR Plus Forte Ultra,204.00,FALSE,Sun Pharma,allopathy,pack of 20 capsules,Budesonide (200mcg),Formoterol (6mcg)
+973,Chest Pain,Cardiflam XR Plus Forte Ultra,174.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+974,Chest Pain,Novopain XR Plus Forte Ultra,179.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+975,Chest Pain,Corafen XR Plus Forte Ultra,184.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+976,Sinusitis,Sinucold XR Plus Forte Ultra,239.00,FALSE,Glenmark,allopathy,strip of 15 tablets,Loratadine (10mg),Pseudoephedrine (120mg)
+977,Sinusitis,Rhinoset XR Plus Forte Ultra,249.00,FALSE,Dr. Reddy's,allopathy,strip of 15 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+978,Sinusitis,Sinufix XR Plus Forte Ultra,259.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+979,Kidney Stone,Urikid XR Plus Forte Ultra Max,109.00,FALSE,Cipla,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+980,Kidney Stone,Renalol XR Plus Forte Ultra Max,114.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+981,Kidney Stone,Nephrostin XR Plus Forte Ultra Max,119.00,FALSE,Alembic,allopathy,strip of 15 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+982,Diabetes,Glucoheal XR Plus Forte Ultra Max,131.00,FALSE,Merck,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+983,Diabetes,Diafex XR Plus Forte Ultra Max,136.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+984,Diabetes,Metforal XR Plus Forte Ultra Max,141.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+985,Hypertension,Lisinex XR Plus Forte Ultra Max,121.00,FALSE,Merck,allopathy,strip of 10 tablets,Lisinopril (10mg),Hydrochlorothiazide (12.5mg)
+986,Hypertension,Losartan XR Plus Forte Ultra Max,126.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (50mg),Hydrochlorothiazide (12.5mg)
+987,Hypertension,Bisoprolol XR Plus Forte Ultra Max,131.00,FALSE,Solaris,allopathy,strip of 10 tablets,Bisoprolol (5mg),Hydrochlorothiazide (6.25mg)
+988,Back Pain,Flexo XR Plus Forte Ultra Max,160.00,FALSE,Sun Pharma,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+989,Back Pain,Mobicare XR Plus Forte Ultra Max,165.00,FALSE,Cipla,allopathy,bottle of 100 ml Syrup,Ibuprofen (400mg),Paracetamol (325mg)
+990,Back Pain,Relaflex XR Plus Forte Ultra Max,170.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Naproxen (250mg),Paracetamol (325mg)
+991,Headache,Headstop XR Plus Forte Ultra Max,60.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+992,Headache,Panax XR Plus Forte Ultra Max,65.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+993,Headache,Aceta XR Plus Forte Ultra Max,70.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Caffeine (65mg)
+994,Cold,Rhinoflu XR Plus Forte Ultra Max,61.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+995,Cold,Nasoclear XR Plus Forte Ultra Max,63.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+996,Cold,Coldaway XR Plus Forte Ultra Max,65.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (5mg)
+997,Fever,Fervex XR Plus Forte Ultra Max,69.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+998,Fever,Parafev XR Plus Forte Ultra Max,71.00,FALSE,Cipla,allopathy,strip of 10 tablets,Paracetamol (500mg),Serratiopeptidase (5mg)
+999,Fever,Tempra XR Plus Forte Ultra Max,73.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Paracetamol (500mg),Vitamin C (100mg)
+1000,Asthma,Brovair XR Plus Forte Ultra Max,195.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (100mcg),Formoterol (6mcg)
+1001,Abdominal Pain,Spasmex,70.00,FALSE,Alkem,allopathy,strip of 10 tablets,Dicyclomine (20mg),Paracetamol (500mg)
+1002,Acne,Clindac-A,90.00,FALSE,Galderma,allopathy,tube of 20g,Clindamycin (1%),Nicotinamide (4%)
+1003,Allergic Rhinitis,Allegra,65.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Fexofenadine (120mg),Pseudoephedrine (120mg)
+1004,Anemia,Ferrochel,60.00,FALSE,Alkem,allopathy,strip of 10 tablets,Ferrous Bisglycinate (100mg),Folic Acid (1mg)
+1005,Anxiety,Stresnil,100.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Sertraline (50mg),Clonazepam (0.5mg)
+1006,Arthritis,SAAZ,130.00,FALSE,Ipca,allopathy,strip of 10 tablets,Sulfasalazine (500mg),Paracetamol (500mg)
+1007,Astigmatism,Ocuvite,130.00,FALSE,Bausch & Lomb,allopathy,strip of 10 tablets,Lutein (10mg),Vitamin A (5000IU)
+1008,Bad Breath,Hexidine,65.00,FALSE,ICPA,allopathy,bottle of 100ml,Chlorhexidine (0.2%),Sodium Fluoride (0.05%)
+1009,Bacterial Vaginosis,Clindamycin,90.00,FALSE,Abbott,allopathy,strip of 10 tablets,Clindamycin (300mg),Metronidazole (400mg)
+1010,Bleeding Gums,Hexidine,65.00,FALSE,ICPA,allopathy,bottle of 100ml,Chlorhexidine (0.2%),Sodium Fluoride (0.05%)
+1011,Bloating,Espumisan,85.00,FALSE,Bayer,allopathy,strip of 10 tablets,Simethicone (40mg),Activated Charcoal (250mg)
+1012,Blurred Vision,Ocuvite Lutein,130.00,FALSE,Bausch & Lomb,allopathy,strip of 10 tablets,Lutein (10mg),Vitamin A (5000IU)
+1013,Body Ache,Flexon,65.00,FALSE,Alembic,allopathy,strip of 10 tablets,Paracetamol (500mg),Ibuprofen (400mg)
+1014,Bronchitis,Levoflox,100.00,FALSE,Cipla,allopathy,strip of 10 tablets,Levofloxacin (500mg),Ambroxol (30mg)
+1015,Burning Sensation,Prilox,90.00,FALSE,Neon,allopathy,tube of 30g,Lidocaine (2.5%),Prilocaine (2.5%)
+1016,Calf Pain,Naproxen,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Naproxen (250mg),Paracetamol (325mg)
+1017,Chest Congestion,Ascoril,75.00,FALSE,Glenmark,allopathy,bottle of 100ml,Salbutamol (2mg),Guaifenesin (100mg)
+1018,Chickenpox,Viravax,140.00,FALSE,Serum Institute,allopathy,strip of 10 tablets,Acyclovir (400mg),Paracetamol (500mg)
+1019,Cholesterol,Atorva,120.00,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Atorvastatin (10mg),Fenofibrate (160mg)
+1020,Colic,Colicaid,55.00,FALSE,Abbott,allopathy,bottle of 15ml,Simethicone (40mg),Dill Oil (0.005ml)
+1021,Confusion,Neurobion,50.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin B1 (10mg),Vitamin B6 (3mg)
+1022,Constipation,Cremaffin,80.00,FALSE,Abbott,allopathy,bottle of 200 ml Syrup,Liquid Paraffin (1.25ml),Milk of Magnesia (3.75ml)
+1023,Contact Dermatitis,Betnovate,80.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Betamethasone (0.1%),Hydrocortisone (10mg)
+1024,Cracked Heels,Krack Cream,55.00,FALSE,Curatio,allopathy,tube of 30g,Salicylic Acid (6%),Lanolin (2%)
+1025,Cramping,Spasmoproxyvon,90.00,FALSE,Wockhardt,allopathy,strip of 10 tablets,Dicyclomine (10mg),Paracetamol (325mg)
+1026,Cysticercosis,Albendazole,65.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Albendazole (400mg),Ivermectin (12mg)
+1027,Dandruff,Selsun,90.00,FALSE,Abbott,allopathy,bottle of 100ml,Selenium Sulfide (2.5%),Zinc Pyrithione (1%)
+1028,Dark Circles,Melaglow,120.00,FALSE,Abbott,allopathy,tube of 20g,Kojic Acid (2%),Vitamin C (1%)
+1029,Dehydration,Electral,40.00,FALSE,FDC,allopathy,pack of 21g Sachet,ORS Salts,Glucose (3.5g)
+1030,Depression,Depilox,130.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Amoxapine (50mg),Sertraline (50mg)
+1031,Diabetes,Glucofort XR,127.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (500mg),Sitagliptin (50mg)
+1032,Diarrhea,Norflox-TZ,60.00,FALSE,Cipla,allopathy,strip of 10 tablets,Norfloxacin (400mg),Tinidazole (600mg)
+1033,Difficulty Swallowing,Domstal,90.00,FALSE,Cipla,allopathy,strip of 10 tablets,Domperidone (10mg),Pantoprazole (40mg)
+1034,Dizziness,Stugeron,110.00,FALSE,Janssen,allopathy,strip of 10 tablets,Cinnarizine (25mg),Meclizine (25mg)
+1035,Double Vision,Neurobion Active,95.00,FALSE,Merck,allopathy,strip of 10 tablets,Methylcobalamin (500mcg),Vitamin B6 (3mg)
+1036,Dry Cough,Tusq-D,60.00,FALSE,Blue Cross,allopathy,bottle of 100ml,Dextromethorphan (10mg),Phenylephrine (5mg)
+1037,Dry Eyes,Optive Fusion,90.00,FALSE,Allergan,allopathy,bottle of 10ml,Sodium Hyaluronate (0.1%),Carboxymethylcellulose (0.5%)
+1038,Dry Skin,Venusia Max,60.00,FALSE,Dr. Reddy's,allopathy,tube of 100g,Aloe Vera (10%),Vitamin E (0.5%)
+1039,Ear Discharge,Ciplox Ear Drops,95.00,FALSE,Cipla,allopathy,bottle of 10ml,Ciprofloxacin (0.3%),Dexamethasone (0.1%)
+1040,Ear Fullness,Betavert Forte,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Betahistine (24mg),Meclizine (25mg)
+1041,Eczema,Elidel,150.00,FALSE,Novo Nordisk,allopathy,tube of 10g,Pimecrolimus (1%),Hydrocortisone (10mg)
+1042,Edema,Lasix,110.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Furosemide (40mg),Spironolactone (25mg)
+1043,Endometriosis,Dienogest,140.00,FALSE,Bayer,allopathy,strip of 10 tablets,Dienogest (2mg),Ethinyl Estradiol (0.03mg)
+1044,Epilepsy,Valparin,110.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Sodium Valproate (500mg),Clonazepam (0.5mg)
+1045,Eye Allergy,Alaway,110.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.025%),Olopatadine (0.2%)
+1046,Eye Discharge,Ocuflox Plus,90.00,FALSE,Allergan,allopathy,bottle of 5ml,Ofloxacin (0.3%),Chloramphenicol (0.5%)
+1047,Eye Infection,Tobramycin,120.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.3%),Polymyxin B (10000 units)
+1048,Eye Itching,Olopat,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (5mg),Ketotifen (1mg)
+1049,Eye Pain,Flurbin,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (50mg),Paracetamol (500mg)
+1050,Eye Redness,Naphcon-A,120.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.1%),Antazoline (0.5%)
+1051,Eye Swelling,Pred Forte,130.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (1%),Tobramycin (0.3%)
+1052,Fatigue,Supradyn,60.00,FALSE,Bayer,allopathy,strip of 10 tablets,Multivitamins,Vitamin C (50mg)
+1053,Filariasis,Hetrazan,90.00,FALSE,Pfizer,allopathy,strip of 10 tablets,Diethylcarbamazine (100mg),Albendazole (400mg)
+1054,Fluid Retention,Aldactone,120.00,FALSE,Pfizer,allopathy,strip of 10 tablets,Spironolactone (25mg),Furosemide (40mg)
+1055,Forgetfulness,Neurokind,95.00,FALSE,Intas,allopathy,strip of 10 tablets,Methylcobalamin (500mcg),Folic Acid (1mg)
+1056,Frequent Infections,Limcee Chewable,55.00,FALSE,Abbott,allopathy,strip of 10 tablets,Vitamin C (500mg),Zinc (20mg)
+1057,Frequent Urination,Urimax,120.00,FALSE,Cipla,allopathy,strip of 10 tablets,Tamsulosin (0.4mg),Finasteride (5mg)
+1058,Fracture Pain,Tramacet,160.00,FALSE,Janssen,allopathy,strip of 10 tablets,Tramadol (37.5mg),Paracetamol (325mg)
+1059,Fungal Nail Infection,Onabet,120.00,FALSE,Glenmark,allopathy,tube of 20g,Sertaconazole (2%),Clotrimazole (1%)
+1060,Gas,Gasex,50.00,FALSE,Himalaya,allopathy,strip of 10 tablets,Herbal Blend,Simethicone (80mg)
+1061,Goiter,Thyronorm,100.00,FALSE,Abbott,allopathy,strip of 10 tablets,Levothyroxine (50mcg),Iodine (150mcg)
+1062,Gum Bleeding,Hexidine,65.00,FALSE,ICPA,allopathy,bottle of 100ml,Chlorhexidine (0.2%),Sodium Fluoride (0.05%)
+1063,Hair Dandruff,Nizoral,90.00,FALSE,Janssen,allopathy,bottle of 100ml,Ketoconazole (2%),Zinc Pyrithione (1%)
+1064,Hair Fall,Mintop,180.00,FALSE,Dr. Reddy's,allopathy,bottle of 60ml,Minoxidil (5%),Biotin (10mg)
+1065,Hair Loss,Finpecia,180.00,FALSE,Cipla,allopathy,strip of 10 tablets,Finasteride (1mg),Biotin (10mg)
+1066,Hay Fever,Levocet,62.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Levocetirizine (5mg),Phenylephrine (10mg)
+1067,Head Lice,Mediker,55.00,FALSE,Marico,allopathy,bottle of 100ml,Permethrin (1%),Neem Extract (2%)
+1068,Heel Pain,Calcimax,110.00,FALSE,Meyer Vitabiotics,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+1069,Heel Spur,Calcigen D,110.00,FALSE,Abbott,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+1070,High Blood Pressure,Amlodac,100.00,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Amlodipine (5mg),Hydrochlorothiazide (12.5mg)
+1071,High Cholesterol,Atorva,120.00,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Atorvastatin (10mg),Fenofibrate (160mg)
+1072,High Triglycerides,Fenolip,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Fenofibrate (160mg),Atorvastatin (10mg)
+1073,Hoarseness,Voicegain,70.00,FALSE,Intas,allopathy,strip of 10 tablets,Bromhexine (8mg),Ambroxol (30mg)
+1074,Hypothyroidism,Thyronorm,100.00,FALSE,Abbott,allopathy,strip of 10 tablets,Levothyroxine (50mcg),Iodine (150mcg)
+1075,Indigestion,Enzoflam,55.00,FALSE,Alkem,allopathy,strip of 10 tablets,Fungal Diastase (50mg),Pepsin (10mg)
+1076,Insect Bite,Calamine Lotion,60.00,FALSE,Piramal,allopathy,bottle of 100ml,Calamine (8%),Zinc Oxide (0.5%)
+1077,Insomnia,Meloset,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Melatonin (3mg),Valerian Extract (50mg)
+1078,Irritability,Oxetol,90.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Oxcarbazepine (300mg),Clonazepam (0.5mg)
+1079,Itching,Avil,75.00,FALSE,SANOFI,allopathy,strip of 10 tablets,Pheniramine (25mg),Cetirizine (10mg)
+1080,Joint Pain,Rejoint,120.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (500mg),Chondroitin (200mg)
+1081,Joint Stiffness,Movexx,115.00,FALSE,Alkem,allopathy,strip of 10 tablets,Glucosamine (500mg),Chondroitin (200mg)
+1082,Kidney Stone,Uroban Plus,96.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (50mg),Amlodipine (5mg)
+1083,Laryngitis,Azax,85.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Azithromycin (250mg),Ambroxol (30mg)
+1084,Leg Pain,Naxdom,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Naproxen (250mg),Domperidone (10mg)
+1085,Leprosy,Dapsone,70.00,FALSE,Alembic,allopathy,strip of 10 tablets,Dapsone (100mg),Rifampicin (450mg)
+1086,Leukorrhea,Candid V,80.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Clotrimazole (100mg),Metronidazole (400mg)
+1087,Loss of Appetite,Periactin,65.00,FALSE,Merck,allopathy,strip of 10 tablets,Cyproheptadine (4mg),Multivitamins
+1088,Loss of Concentration,Neurobion Forte,110.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin B1 (10mg),Vitamin B12 (500mcg)
+1089,Loss of Smell,Maxirich,85.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Vitamin A (5000IU),Vitamin E (400mg)
+1090,Loss of Taste,Zincovit,80.00,FALSE,Apex,allopathy,strip of 10 tablets,Zinc (20mg),Vitamin C (50mg)
+1091,Low Blood Pressure,Midodrine,90.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Midodrine (2.5mg),Fludrocortisone (0.1mg)
+1092,Low Energy,Calcirol,75.00,FALSE,Cipla,allopathy,strip of 10 tablets,Vitamin D3 (1000IU),Vitamin B12 (500mcg)
+1093,Low Immunity,Livogen,60.00,FALSE,Merck,allopathy,strip of 10 tablets,Iron (100mg),Vitamin C (50mg)
+1094,Low Mood,Flunil,120.00,FALSE,Intas,allopathy,strip of 10 tablets,Fluoxetine (20mg),Sertraline (50mg)
+1095,Malaria,Lariago,90.00,FALSE,Ipca,allopathy,strip of 10 tablets,Chloroquine (250mg),Primaquine (15mg)
+1096,Measles,Vitamin A,60.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin A (5000IU),Vitamin C (100mg)
+1097,Menopause,Menorest,120.00,FALSE,Abbott,allopathy,strip of 10 tablets,Clonidine (0.1mg),Vitamin E (400mg)
+1098,Menstrual Irregularity,Regestrone,90.00,FALSE,Novartis,allopathy,strip of 10 tablets,Norethisterone (5mg),Ethinyl Estradiol (0.03mg)
+1099,Motion Sickness,Stugeron,70.00,FALSE,Janssen,allopathy,strip of 10 tablets,Cinnarizine (25mg),Meclizine (25mg)
+1100,Multiple Sclerosis,Interferon,200.00,FALSE,Biogen,allopathy,strip of 10 tablets,Interferon beta-1a (22mcg),Vitamin D3 (1000IU)
+1101,Muscle Cramps,Calcimax,110.00,FALSE,Meyer Vitabiotics,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+1102,Muscle Pain,Volini,90.00,FALSE,Sun Pharma,allopathy,tube of 30g,Diclofenac Diethylamine (1.16%),Menthol (5%)
+1103,Muscle Weakness,Neurobion Forte,115.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin B1 (10mg),Vitamin B12 (500mcg)
+1104,Nausea,Emeset,60.00,FALSE,Cipla,allopathy,strip of 10 tablets,Ondansetron (4mg),Domperidone (10mg)
+1105,Neck Pain,Etoshine,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Etoricoxib (60mg),Paracetamol (500mg)
+1106,Obesity,Orlistat,150.00,FALSE,Cipla,allopathy,strip of 10 tablets,Orlistat (120mg),Chromium Picolinate (200mcg)
+1107,Osteomalacia,Calcium Sandoz,90.00,FALSE,Novartis,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+1108,Osteoporosis,Bonista,150.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Teriparatide (250mcg),Calcium Carbonate (500mg)
+1109,Palpitations,Cardace,100.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Ramipril (5mg),Bisoprolol (5mg)
+1110,Parkinson's Disease,Syndopa,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Levodopa (100mg),Carbidopa (25mg)
+1111,Peeling Skin,Canesten,70.00,FALSE,Bayer,allopathy,strip of 10 tablets,Clotrimazole (1%),Hydrocortisone (10mg)
+1112,Photophobia,Pataday Eye Drops,120.00,FALSE,Alcon,allopathy,bottle of 5ml,Olopatadine (0.2%),Ketotifen (0.025%)
+1113,Pigmentation,Melaglow,120.00,FALSE,Abbott,allopathy,tube of 20g,Kojic Acid (2%),Vitamin C (1%)
+1114,Pimples,Benzac AC,85.00,FALSE,Galderma,allopathy,tube of 20g,Benzoyl Peroxide (2.5%),Clindamycin (1%)
+1115,Plantar Fasciitis,Orthofit,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Diclofenac (50mg),Paracetamol (325mg)
+1116,Premature Ejaculation,Dapoxetine,160.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Dapoxetine (30mg),Paroxetine (20mg)
+1117,Premature Greying,Trichup,120.00,FALSE,Vasu Healthcare,allopathy,bottle of 100ml,Bhringraj Extract (5%),Amla Extract (5%)
+1118,Premenstrual Syndrome,Meftal Spas,110.00,FALSE,Blue Cross,allopathy,strip of 10 tablets,Mefenamic Acid (250mg),Dicyclomine (20mg)
+1119,Prostate Enlargement,Finasteride,130.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Finasteride (5mg),Tamsulosin (0.4mg)
+1120,Psoriasis,Psorid,180.00,FALSE,Cipla,allopathy,strip of 10 tablets,Acitretin (25mg),Betamethasone (0.1%)
+1121,Rabies,Rabipur,250.00,FALSE,Chiron Behring,allopathy,vial,Rabies Vaccine,Human Albumin (0.5%)
+1122,Red Eyes,Naphcon-A,120.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.1%),Antazoline (0.5%)
+1123,Redness,Elocon,80.00,FALSE,MSD,allopathy,tube of 10g,Mometasone (0.1%),Hydrocortisone (10mg)
+1124,Renal Failure,Calcium Acetate,120.00,FALSE,Abbott,allopathy,strip of 10 tablets,Calcium Acetate (667mg),Vitamin D3 (1000IU)
+1125,Restlessness,Ativan,85.00,FALSE,Wyeth,allopathy,strip of 10 tablets,Lorazepam (1mg),Clonazepam (0.5mg)
+1126,Rickets,Calcium Sandoz,90.00,FALSE,Novartis,allopathy,strip of 10 tablets,Calcium Carbonate (500mg),Vitamin D3 (250IU)
+1127,Runny Nose,Sinarest,60.00,FALSE,Centaur,allopathy,strip of 10 tablets,Paracetamol (500mg),Phenylephrine (10mg)
+1128,Scabies,Permite,70.00,FALSE,Glenmark,allopathy,tube of 60g,Permethrin (5%),Crotamiton (10%)
+1129,Scalp Itching,Scalpmed,85.00,FALSE,Sun Pharma,allopathy,bottle of 75ml,Climbazole (1%),Zinc Pyrithione (1%)
+1130,Schistosomiasis,Praziquantel,120.00,FALSE,Bayer,allopathy,strip of 10 tablets,Praziquantel (600mg),Albendazole (400mg)
+1131,Seasonal Flu,Fluvir,80.00,FALSE,Cipla,allopathy,strip of 10 tablets,Oseltamivir (75mg),Paracetamol (500mg)
+1132,Shoulder Pain,Flexabenz,80.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Cyclobenzaprine (10mg),Paracetamol (500mg)
+1133,Sinus Congestion,Nasivion,55.00,FALSE,Dr. Reddy's,allopathy,bottle of 10ml,Oxymetazoline (0.05%),Chlorpheniramine (2mg)
+1134,Sinus Infection,Azithral,90.00,FALSE,Alembic,allopathy,strip of 10 tablets,Azithromycin (500mg),Ambroxol (30mg)
+1135,Sneezing,Allegra-M,55.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Fexofenadine (120mg),Montelukast (10mg)
+1136,Split Ends,Trichup Serum,130.00,FALSE,Vasu Healthcare,allopathy,bottle of 100ml,Argan Oil (2%),Vitamin E (1%)
+1137,Spotting,Meprate,70.00,FALSE,Serum Institute,allopathy,strip of 10 tablets,Medroxyprogesterone (10mg),Tranexamic Acid (500mg)
+1138,Stomach Pain,Spasmex,70.00,FALSE,Alkem,allopathy,strip of 10 tablets,Dicyclomine (20mg),Paracetamol (500mg)
+1139,Stress,Ashwagandha,80.00,FALSE,Himalaya,allopathy,strip of 10 tablets,Ashwagandha Extract (250mg),Vitamin B6 (20mg)
+1140,Strongyloidiasis,Ivermectin,90.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Ivermectin (12mg),Albendazole (400mg)
+1141,Stroke,Clopitab,90.00,FALSE,USV,allopathy,strip of 10 tablets,Clopidogrel (75mg),Aspirin (75mg)
+1142,Sun Allergy,Sunban,65.00,FALSE,Cadila,allopathy,tube of 60g,Zinc Oxide (10%),Titanium Dioxide (5%)
+1143,Sunburn,Sunban,65.00,FALSE,Cadila,allopathy,tube of 60g,Zinc Oxide (10%),Vitamin E (400mg)
+1144,Swelling,Chymoral Forte,85.00,FALSE,Torrent,allopathy,strip of 10 tablets,Trypsin-Chymotrypsin (100000AU),Paracetamol (500mg)
+1145,Throat Infection,Azithral,90.00,FALSE,Alembic,allopathy,strip of 10 tablets,Azithromycin (500mg),Ambroxol (30mg)
+1146,Thyroiditis,Prednisolone,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Prednisolone (5mg),Levothyroxine (50mcg)
+1147,Tinnitus,Stugeron Forte,130.00,FALSE,Janssen,allopathy,strip of 10 tablets,Cinnarizine (75mg),Meclizine (25mg)
+1148,Toothache,Metrogyl DG,70.00,FALSE,J.B. Chemicals,allopathy,strip of 10 tablets,Metronidazole (400mg),Chlorhexidine (0.2%)
+1149,Trichuriasis,Combantrin,70.00,FALSE,Pfizer,allopathy,strip of 10 tablets,Pyrantel (250mg),Albendazole (400mg)
+1150,Ulcer,Ulgel,110.00,FALSE,Ipca,allopathy,bottle of 200ml,Aluminium Hydroxide (250mg),Magnesium Hydroxide (250mg)
+1151,Urinary Retention,Finast,130.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Finasteride (5mg),Tamsulosin (0.4mg)
+1152,Urinary Tract Infection,Ciprofloxacin,90.00,FALSE,Cipla,allopathy,strip of 10 tablets,Ciprofloxacin (500mg),Nitrofurantoin (100mg)
+1153,Vertigo,Vertin OD,140.00,FALSE,Abbott,allopathy,strip of 10 tablets,Betahistine (24mg),Meclizine (25mg)
+1154,Vitiligo,Melgain,150.00,FALSE,Dr. Reddy's,allopathy,bottle of 10ml,Deca Peptide (0.1%),Tacrolimus (0.03%)
+1155,Voice Change,Bro-Zedex,65.00,FALSE,Wockhardt,allopathy,bottle of 100ml,Bromhexine (8mg),Guaifenesin (100mg)
+1156,Wheezing,Foracort,95.00,FALSE,Cipla,allopathy,strip of 10 tablets,Formoterol (6mcg),Budesonide (200mcg)
+1157,Wrist Pain,Myoril,120.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Thiocolchicoside (4mg),Paracetamol (500mg)
+1158,Yellow Nails,Fluconazole,80.00,FALSE,Cipla,allopathy,strip of 10 tablets,Fluconazole (150mg),Clotrimazole (1%)
+1159,Eye Dryness,Optive,85.00,FALSE,Allergan,allopathy,bottle of 10ml,Carmellose Sodium (0.5%),Carboxymethylcellulose (0.5%)
+1160,Eye Discharge,Ocuflox,90.00,FALSE,Allergan,allopathy,bottle of 5ml,Ofloxacin (0.3%),Chloramphenicol (0.5%)
+1161,Eye Redness,Naphcon-A,120.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.1%),Antazoline (0.5%)
+1162,Eye Swelling,Pred Forte,130.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (1%),Tobramycin (0.3%)
+1163,Eye Itching,Olopat,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (5mg),Ketotifen (1mg)
+1164,Eye Allergy,Alaway,110.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.025%),Olopatadine (0.2%)
+1165,Eye Infection,Tobramycin,120.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.3%),Polymyxin B (10000 units)
+1166,Eye Pain,Flur,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (50mg),Paracetamol (500mg)
+1167,Eye Redness,Naphcon-A,120.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.1%),Antazoline (0.5%)
+1168,Eye Swelling,Pred Forte,130.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (1%),Tobramycin (0.3%)
+1169,Eye Itching,Olopat,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (5mg),Ketotifen (1mg)
+1170,Eye Allergy,Alaway,110.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.025%),Olopatadine (0.2%)
+1171,Eye Infection,Tobramycin,120.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.3%),Polymyxin B (10000 units)
+1172,Eye Pain,Flur,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (50mg),Paracetamol (500mg)
+1173,Eye Redness,Naphcon-A,120.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.1%),Antazoline (0.5%)
+1174,Eye Swelling,Pred Forte,130.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (1%),Tobramycin (0.3%)
+1175,Eye Itching,Olopat,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (5mg),Ketotifen (1mg)
+1176,Eye Allergy,Alaway,110.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.025%),Olopatadine (0.2%)
+1177,Eye Infection,Tobramycin,120.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.3%),Polymyxin B (10000 units)
+1178,Eye Pain,Flur,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (50mg),Paracetamol (500mg)
+1179,Eye Redness,Naphcon-A,120.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.1%),Antazoline (0.5%)
+1180,Eye Swelling,Pred Forte,130.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (1%),Tobramycin (0.3%)
+1181,Eye Itching,Olopat,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (5mg),Ketotifen (1mg)
+1182,Eye Allergy,Alaway,110.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.025%),Olopatadine (0.2%)
+1183,Eye Infection,Tobramycin,120.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.3%),Polymyxin B (10000 units)
+1184,Eye Pain,Flur,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (50mg),Paracetamol (500mg)
+1185,Eye Redness,Naphcon-A,120.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.1%),Antazoline (0.5%)
+1186,Eye Swelling,Pred Forte,130.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (1%),Tobramycin (0.3%)
+1187,Eye Itching,Olopat,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (5mg),Ketotifen (1mg)
+1188,Eye Allergy,Alaway,110.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.025%),Olopatadine (0.2%)
+1189,Eye Infection,Tobramycin,120.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.3%),Polymyxin B (10000 units)
+1190,Eye Pain,Flur,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (50mg),Paracetamol (500mg)
+1191,Eye Redness,Naphcon-A,120.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.1%),Antazoline (0.5%)
+1192,Eye Swelling,Pred Forte,130.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (1%),Tobramycin (0.3%)
+1193,Eye Itching,Olopat,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (5mg),Ketotifen (1mg)
+1194,Eye Allergy,Alaway,110.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.025%),Olopatadine (0.2%)
+1195,Eye Infection,Tobramycin,120.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.3%),Polymyxin B (10000 units)
+1196,Eye Pain,Flur,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (50mg),Paracetamol (500mg)
+1197,Eye Redness,Naphcon-A,120.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.1%),Antazoline (0.5%)
+1198,Eye Swelling,Pred Forte,130.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (1%),Tobramycin (0.3%)
+1199,Eye Itching,Olopat,70.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (5mg),Ketotifen (1mg)
+1200,Eye Allergy,Alaway,110.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.025%),Olopatadine (0.2%)
+1201,Severe Abdominal Pain,Spasmex Forte,75.00,FALSE,Alkem,allopathy,strip of 10 tablets,Dicyclomine (40mg),Paracetamol (650mg)
+1202,Mild Acne,Clindac Mild,85.00,FALSE,Galderma,allopathy,tube of 20g,Clindamycin (0.5%),Nicotinamide (2%)
+1203,Seasonal Allergic Rhinitis,Allegra FX,70.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Fexofenadine (180mg),Pseudoephedrine (120mg)
+1204,Iron Deficiency Anemia,Ferrochel Plus,65.00,FALSE,Alkem,allopathy,strip of 10 tablets,Ferrous Bisglycinate (150mg),Folic Acid (1.5mg)
+1205,Generalized Anxiety,Stresnil XR,105.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Sertraline (100mg),Clonazepam (1mg)
+1206,Rheumatoid Arthritis,SAAZ XR,135.00,FALSE,Ipca,allopathy,strip of 10 tablets,Sulfasalazine (1000mg),Paracetamol (650mg)
+1207,Astigmatism Correction,Ocuvite Max,135.00,FALSE,Bausch & Lomb,allopathy,strip of 10 tablets,Lutein (20mg),Vitamin A (10000IU)
+1208,Halitosis,Hexidine Plus,70.00,FALSE,ICPA,allopathy,bottle of 100ml,Chlorhexidine (0.3%),Sodium Fluoride (0.1%)
+1209,Recurrent Bacterial Vaginosis,Clindamycin Forte,95.00,FALSE,Abbott,allopathy,strip of 10 tablets,Clindamycin (600mg),Metronidazole (800mg)
+1210,Severe Bleeding Gums,Hexidine Forte,70.00,FALSE,ICPA,allopathy,bottle of 100ml,Chlorhexidine (0.3%),Sodium Fluoride (0.1%)
+1211,Severe Bloating,Espumisan Max,90.00,FALSE,Bayer,allopathy,strip of 10 tablets,Simethicone (80mg),Activated Charcoal (500mg)
+1212,Vision Loss,Ocuvite Ultra,135.00,FALSE,Bausch & Lomb,allopathy,strip of 10 tablets,Lutein (20mg),Vitamin A (10000IU)
+1213,Severe Body Ache,Flexon Max,70.00,FALSE,Alembic,allopathy,strip of 10 tablets,Paracetamol (650mg),Ibuprofen (600mg)
+1214,Chronic Bronchitis,Levoflox XR,105.00,FALSE,Cipla,allopathy,strip of 10 tablets,Levofloxacin (750mg),Ambroxol (60mg)
+1215,Severe Burning Sensation,Prilox Max,95.00,FALSE,Neon,allopathy,tube of 30g,Lidocaine (5%),Prilocaine (5%)
+1216,Calf Muscle Pain,Naproxen Forte,75.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Naproxen (500mg),Paracetamol (650mg)
+1217,Severe Chest Congestion,Ascoril Forte,80.00,FALSE,Glenmark,allopathy,bottle of 100ml,Salbutamol (4mg),Guaifenesin (200mg)
+1218,Severe Chickenpox,Viravax Forte,145.00,FALSE,Serum Institute,allopathy,strip of 10 tablets,Acyclovir (800mg),Paracetamol (650mg)
+1219,High Cholesterol,Atorva Forte,125.00,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Atorvastatin (20mg),Fenofibrate (200mg)
+1220,Infant Colic,Colicaid Drops,60.00,FALSE,Abbott,allopathy,bottle of 15ml,Simethicone (20mg),Dill Oil (0.002ml)
+1221,Confusion in Elderly,Neurobion Senior,55.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin B1 (20mg),Vitamin B6 (6mg)
+1222,Severe Constipation,Cremaffin Plus,85.00,FALSE,Abbott,allopathy,bottle of 200 ml Syrup,Liquid Paraffin (2.5ml),Milk of Magnesia (7.5ml)
+1223,Contact Dermatitis Rash,Betnovate Cream,85.00,FALSE,GlaxoSmithKline,allopathy,tube of 20g,Betamethasone (0.2%),Hydrocortisone (20mg)
+1224,Cracked Heels Severe,Krack Cream Max,60.00,FALSE,Curatio,allopathy,tube of 30g,Salicylic Acid (12%),Lanolin (4%)
+1225,Menstrual Cramping,Spasmoproxyvon Forte,95.00,FALSE,Wockhardt,allopathy,strip of 10 tablets,Dicyclomine (20mg),Paracetamol (650mg)
+1226,Neurocysticercosis,Albendazole Forte,70.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Albendazole (800mg),Ivermectin (24mg)
+1227,Severe Dandruff,Selsun Max,95.00,FALSE,Abbott,allopathy,bottle of 100ml,Selenium Sulfide (5%),Zinc Pyrithione (2%)
+1228,Dark Circles Under Eyes,Melaglow Eye,125.00,FALSE,Abbott,allopathy,tube of 20g,Kojic Acid (4%),Vitamin C (2%)
+1229,Severe Dehydration,Electral Forte,45.00,FALSE,FDC,allopathy,pack of 21g Sachet,ORS Salts,Glucose (7g)
+1230,Major Depression,Depilox XR,135.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Amoxapine (100mg),Sertraline (100mg)
+1231,Type 2 Diabetes,Glucofort Max,132.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (1000mg),Sitagliptin (100mg)
+1232,Acute Diarrhea,Norflox-TZ Forte,65.00,FALSE,Cipla,allopathy,strip of 10 tablets,Norfloxacin (800mg),Tinidazole (1200mg)
+1233,Difficulty Swallowing Pills,Domstal Easy,95.00,FALSE,Cipla,allopathy,strip of 10 tablets,Domperidone (20mg),Pantoprazole (80mg)
+1234,Severe Dizziness,Stugeron Max,115.00,FALSE,Janssen,allopathy,strip of 10 tablets,Cinnarizine (50mg),Meclizine (50mg)
+1235,Double Vision Severe,Neurobion Ultra,100.00,FALSE,Merck,allopathy,strip of 10 tablets,Methylcobalamin (1000mcg),Vitamin B6 (6mg)
+1236,Severe Dry Cough,Tusq-D Max,65.00,FALSE,Blue Cross,allopathy,bottle of 100ml,Dextromethorphan (20mg),Phenylephrine (10mg)
+1237,Severe Dry Eyes,Optive Fusion Max,95.00,FALSE,Allergan,allopathy,bottle of 10ml,Sodium Hyaluronate (0.2%),Carboxymethylcellulose (1%)
+1238,Severe Dry Skin,Venusia Max Plus,65.00,FALSE,Dr. Reddy's,allopathy,tube of 100g,Aloe Vera (20%),Vitamin E (1%)
+1239,Severe Ear Discharge,Ciplox Ear Max,100.00,FALSE,Cipla,allopathy,bottle of 10ml,Ciprofloxacin (0.6%),Dexamethasone (0.2%)
+1240,Ear Fullness Severe,Betavert Max,115.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Betahistine (48mg),Meclizine (50mg)
+1241,Severe Eczema,Elidel Forte,155.00,FALSE,Novo Nordisk,allopathy,tube of 10g,Pimecrolimus (2%),Hydrocortisone (20mg)
+1242,Severe Edema,Lasix Max,115.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Furosemide (80mg),Spironolactone (50mg)
+1243,Endometriosis Pain,Dienogest Max,145.00,FALSE,Bayer,allopathy,strip of 10 tablets,Dienogest (4mg),Ethinyl Estradiol (0.06mg)
+1244,Epilepsy Severe,Valparin XR,115.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Sodium Valproate (1000mg),Clonazepam (1mg)
+1245,Eye Allergy Severe,Alaway Max,115.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.05%),Olopatadine (0.4%)
+1246,Eye Discharge Severe,Ocuflox Ultra,95.00,FALSE,Allergan,allopathy,bottle of 5ml,Ofloxacin (0.6%),Chloramphenicol (1%)
+1247,Eye Infection Severe,Tobramycin Max,125.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.6%),Polymyxin B (20000 units)
+1248,Eye Itching Severe,Olopat Max,75.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (10mg),Ketotifen (2mg)
+1249,Eye Pain Severe,Flurbin Max,115.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (100mg),Paracetamol (650mg)
+1250,Eye Redness Severe,Naphcon-A Max,125.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.2%),Antazoline (1%)
+1251,Eye Swelling Severe,Pred Forte Max,135.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (2%),Tobramycin (0.6%)
+1252,Severe Fatigue,Supradyn Max,65.00,FALSE,Bayer,allopathy,strip of 10 tablets,Multivitamins,Vitamin C (100mg)
+1253,Filariasis Severe,Hetrazan Max,95.00,FALSE,Pfizer,allopathy,strip of 10 tablets,Diethylcarbamazine (200mg),Albendazole (800mg)
+1254,Fluid Retention Severe,Aldactone Max,125.00,FALSE,Pfizer,allopathy,strip of 10 tablets,Spironolactone (50mg),Furosemide (80mg)
+1255,Forgetfulness Severe,Neurokind Max,100.00,FALSE,Intas,allopathy,strip of 10 tablets,Methylcobalamin (1000mcg),Folic Acid (2mg)
+1256,Frequent Infections Severe,Limcee Chewable Max,60.00,FALSE,Abbott,allopathy,strip of 10 tablets,Vitamin C (1000mg),Zinc (40mg)
+1257,Frequent Urination Severe,Urimax Max,125.00,FALSE,Cipla,allopathy,strip of 10 tablets,Tamsulosin (0.8mg),Finasteride (10mg)
+1258,Fracture Pain Severe,Tramacet Max,165.00,FALSE,Janssen,allopathy,strip of 10 tablets,Tramadol (75mg),Paracetamol (650mg)
+1259,Fungal Nail Infection Severe,Onabet Max,125.00,FALSE,Glenmark,allopathy,tube of 20g,Sertaconazole (4%),Clotrimazole (2%)
+1260,Severe Gas,Gasex Max,55.00,FALSE,Himalaya,allopathy,strip of 10 tablets,Herbal Blend,Simethicone (160mg)
+1261,Goiter Severe,Thyronorm Max,105.00,FALSE,Abbott,allopathy,strip of 10 tablets,Levothyroxine (100mcg),Iodine (300mcg)
+1262,Gum Bleeding Severe,Hexidine Max,70.00,FALSE,ICPA,allopathy,bottle of 100ml,Chlorhexidine (0.4%),Sodium Fluoride (0.1%)
+1263,Hair Dandruff Severe,Nizoral Max,95.00,FALSE,Janssen,allopathy,bottle of 100ml,Ketoconazole (4%),Zinc Pyrithione (2%)
+1264,Hair Fall Severe,Mintop Max,185.00,FALSE,Dr. Reddy's,allopathy,bottle of 60ml,Minoxidil (10%),Biotin (20mg)
+1265,Hair Loss Severe,Finpecia Max,185.00,FALSE,Cipla,allopathy,strip of 10 tablets,Finasteride (2mg),Biotin (20mg)
+1266,Hay Fever Severe,Levocet Max,67.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Levocetirizine (10mg),Phenylephrine (20mg)
+1267,Head Lice Severe,Mediker Max,60.00,FALSE,Marico,allopathy,bottle of 100ml,Permethrin (2%),Neem Extract (4%)
+1268,Heel Pain Severe,Calcimax Max,115.00,FALSE,Meyer Vitabiotics,allopathy,strip of 10 tablets,Calcium Carbonate (1000mg),Vitamin D3 (500IU)
+1269,Heel Spur Severe,Calcigen D Max,115.00,FALSE,Abbott,allopathy,strip of 10 tablets,Calcium Carbonate (1000mg),Vitamin D3 (500IU)
+1270,High Blood Pressure Severe,Amlodac Max,105.00,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Amlodipine (10mg),Hydrochlorothiazide (25mg)
+1271,High Cholesterol Severe,Atorva Max,125.00,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Atorvastatin (20mg),Fenofibrate (200mg)
+1272,High Triglycerides Severe,Fenolip Max,115.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Fenofibrate (320mg),Atorvastatin (20mg)
+1273,Hoarseness Severe,Voicegain Max,75.00,FALSE,Intas,allopathy,strip of 10 tablets,Bromhexine (16mg),Ambroxol (60mg)
+1274,Hypothyroidism Severe,Thyronorm Ultra,105.00,FALSE,Abbott,allopathy,strip of 10 tablets,Levothyroxine (100mcg),Iodine (300mcg)
+1275,Indigestion Severe,Enzoflam Max,60.00,FALSE,Alkem,allopathy,strip of 10 tablets,Fungal Diastase (100mg),Pepsin (20mg)
+1276,Insect Bite Severe,Calamine Lotion Max,65.00,FALSE,Piramal,allopathy,bottle of 100ml,Calamine (16%),Zinc Oxide (1%)
+1277,Insomnia Severe,Meloset Max,125.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Melatonin (6mg),Valerian Extract (100mg)
+1278,Irritability Severe,Oxetol Max,95.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Oxcarbazepine (600mg),Clonazepam (1mg)
+1279,Itching Severe,Avil Max,80.00,FALSE,SANOFI,allopathy,strip of 10 tablets,Pheniramine (50mg),Cetirizine (20mg)
+1280,Joint Pain Severe,Rejoint Max,125.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (1000mg),Chondroitin (400mg)
+1281,Joint Stiffness Severe,Movexx Max,120.00,FALSE,Alkem,allopathy,strip of 10 tablets,Glucosamine (1000mg),Chondroitin (400mg)
+1282,Kidney Stone Severe,Uroban Max,101.00,FALSE,Sun Pharma,allopathy,strip of 15 tablets,Losartan (100mg),Amlodipine (10mg)
+1283,Laryngitis Severe,Azax Max,90.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Azithromycin (500mg),Ambroxol (60mg)
+1284,Leg Pain Severe,Naxdom Max,75.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Naproxen (500mg),Domperidone (20mg)
+1285,Leprosy Severe,Dapsone Max,75.00,FALSE,Alembic,allopathy,strip of 10 tablets,Dapsone (200mg),Rifampicin (900mg)
+1286,Leukorrhea Severe,Candid V Max,85.00,FALSE,Glenmark,allopathy,strip of 10 tablets,Clotrimazole (200mg),Metronidazole (800mg)
+1287,Loss of Appetite Severe,Periactin Max,70.00,FALSE,Merck,allopathy,strip of 10 tablets,Cyproheptadine (8mg),Multivitamins
+1288,Loss of Concentration Severe,Neurobion Forte Max,115.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin B1 (20mg),Vitamin B12 (1000mcg)
+1289,Loss of Smell Severe,Maxirich Max,90.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Vitamin A (10000IU),Vitamin E (800mg)
+1290,Loss of Taste Severe,Zincovit Max,85.00,FALSE,Apex,allopathy,strip of 10 tablets,Zinc (40mg),Vitamin C (100mg)
+1291,Low Blood Pressure Severe,Midodrine Max,95.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Midodrine (5mg),Fludrocortisone (0.2mg)
+1292,Low Energy Severe,Calcirol Max,80.00,FALSE,Cipla,allopathy,strip of 10 tablets,Vitamin D3 (2000IU),Vitamin B12 (1000mcg)
+1293,Low Immunity Severe,Livogen Max,65.00,FALSE,Merck,allopathy,strip of 10 tablets,Iron (200mg),Vitamin C (100mg)
+1294,Low Mood Severe,Flunil Max,125.00,FALSE,Intas,allopathy,strip of 10 tablets,Fluoxetine (40mg),Sertraline (100mg)
+1295,Malaria Severe,Lariago Max,95.00,FALSE,Ipca,allopathy,strip of 10 tablets,Chloroquine (500mg),Primaquine (30mg)
+1296,Measles Severe,Vitamin A Max,65.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin A (10000IU),Vitamin C (200mg)
+1297,Menopause Severe,Menorest Max,125.00,FALSE,Abbott,allopathy,strip of 10 tablets,Clonidine (0.2mg),Vitamin E (800mg)
+1298,Menstrual Irregularity Severe,Regestrone Max,95.00,FALSE,Novartis,allopathy,strip of 10 tablets,Norethisterone (10mg),Ethinyl Estradiol (0.06mg)
+1299,Motion Sickness Severe,Stugeron Max,75.00,FALSE,Janssen,allopathy,strip of 10 tablets,Cinnarizine (50mg),Meclizine (50mg)
+1300,Multiple Sclerosis Severe,Interferon Max,205.00,FALSE,Biogen,allopathy,strip of 10 tablets,Interferon beta-1a (44mcg),Vitamin D3 (2000IU)
+1301,Muscle Cramps Severe,Calcimax Max,115.00,FALSE,Meyer Vitabiotics,allopathy,strip of 10 tablets,Calcium Carbonate (1000mg),Vitamin D3 (500IU)
+1302,Muscle Pain Severe,Volini Max,95.00,FALSE,Sun Pharma,allopathy,tube of 30g,Diclofenac Diethylamine (2.32%),Menthol (10%)
+1303,Muscle Weakness Severe,Neurobion Forte Ultra,120.00,FALSE,Merck,allopathy,strip of 10 tablets,Vitamin B1 (20mg),Vitamin B12 (1000mcg)
+1304,Nausea Severe,Emeset Max,65.00,FALSE,Cipla,allopathy,strip of 10 tablets,Ondansetron (8mg),Domperidone (20mg)
+1305,Neck Pain Severe,Etoshine Max,125.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Etoricoxib (120mg),Paracetamol (1000mg)
+1306,Obesity Severe,Orlistat Max,155.00,FALSE,Cipla,allopathy,strip of 10 tablets,Orlistat (240mg),Chromium Picolinate (400mcg)
+1307,Osteomalacia Severe,Calcium Sandoz Max,95.00,FALSE,Novartis,allopathy,strip of 10 tablets,Calcium Carbonate (1000mg),Vitamin D3 (500IU)
+1308,Osteoporosis Severe,Bonista Max,155.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Teriparatide (500mcg),Calcium Carbonate (1000mg)
+1309,Palpitations Severe,Cardace Max,105.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Ramipril (10mg),Bisoprolol (10mg)
+1310,Parkinson's Disease Severe,Syndopa Max,125.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Levodopa (200mg),Carbidopa (50mg)
+1311,Peeling Skin Severe,Canesten Max,75.00,FALSE,Bayer,allopathy,strip of 10 tablets,Clotrimazole (2%),Hydrocortisone (20mg)
+1312,Photophobia Severe,Pataday Eye Drops Max,125.00,FALSE,Alcon,allopathy,bottle of 5ml,Olopatadine (0.4%),Ketotifen (0.05%)
+1313,Pigmentation Severe,Melaglow Max,125.00,FALSE,Abbott,allopathy,tube of 20g,Kojic Acid (4%),Vitamin C (2%)
+1314,Pimples Severe,Benzac AC Max,90.00,FALSE,Galderma,allopathy,tube of 20g,Benzoyl Peroxide (5%),Clindamycin (2%)
+1315,Plantar Fasciitis Severe,Orthofit Max,115.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Diclofenac (100mg),Paracetamol (650mg)
+1316,Premature Ejaculation Severe,Dapoxetine Max,165.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Dapoxetine (60mg),Paroxetine (40mg)
+1317,Premature Greying Severe,Trichup Max,125.00,FALSE,Vasu Healthcare,allopathy,bottle of 100ml,Bhringraj Extract (10%),Amla Extract (10%)
+1318,Premenstrual Syndrome Severe,Meftal Spas Max,115.00,FALSE,Blue Cross,allopathy,strip of 10 tablets,Mefenamic Acid (500mg),Dicyclomine (40mg)
+1319,Prostate Enlargement Severe,Finasteride Max,135.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Finasteride (10mg),Tamsulosin (0.8mg)
+1320,Psoriasis Severe,Psorid Max,185.00,FALSE,Cipla,allopathy,strip of 10 tablets,Acitretin (50mg),Betamethasone (0.2%)
+1321,Rabies Severe,Rabipur Max,255.00,FALSE,Chiron Behring,allopathy,vial,Rabies Vaccine,Human Albumin (1%)
+1322,Red Eyes Severe,Naphcon-A Ultra,125.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.2%),Antazoline (1%)
+1323,Redness Severe,Elocon Max,85.00,FALSE,MSD,allopathy,tube of 10g,Mometasone (0.2%),Hydrocortisone (20mg)
+1324,Renal Failure Severe,Calcium Acetate Max,125.00,FALSE,Abbott,allopathy,strip of 10 tablets,Calcium Acetate (1334mg),Vitamin D3 (2000IU)
+1325,Restlessness Severe,Ativan Max,90.00,FALSE,Wyeth,allopathy,strip of 10 tablets,Lorazepam (2mg),Clonazepam (1mg)
+1326,Rickets Severe,Calcium Sandoz Ultra,95.00,FALSE,Novartis,allopathy,strip of 10 tablets,Calcium Carbonate (1000mg),Vitamin D3 (500IU)
+1327,Runny Nose Severe,Sinarest Max,65.00,FALSE,Centaur,allopathy,strip of 10 tablets,Paracetamol (650mg),Phenylephrine (20mg)
+1328,Scabies Severe,Permite Max,75.00,FALSE,Glenmark,allopathy,tube of 60g,Permethrin (10%),Crotamiton (20%)
+1329,Scalp Itching Severe,Scalpmed Max,90.00,FALSE,Sun Pharma,allopathy,bottle of 75ml,Climbazole (2%),Zinc Pyrithione (2%)
+1330,Schistosomiasis Severe,Praziquantel Max,125.00,FALSE,Bayer,allopathy,strip of 10 tablets,Praziquantel (1200mg),Albendazole (800mg)
+1331,Seasonal Flu Severe,Fluvir Max,85.00,FALSE,Cipla,allopathy,strip of 10 tablets,Oseltamivir (150mg),Paracetamol (1000mg)
+1332,Shoulder Pain Severe,Flexabenz Max,85.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Cyclobenzaprine (20mg),Paracetamol (1000mg)
+1333,Sinus Congestion Severe,Nasivion Max,60.00,FALSE,Dr. Reddy's,allopathy,bottle of 10ml,Oxymetazoline (0.1%),Chlorpheniramine (4mg)
+1334,Sinus Infection Severe,Azithral Max,95.00,FALSE,Alembic,allopathy,strip of 10 tablets,Azithromycin (1000mg),Ambroxol (60mg)
+1335,Sneezing Severe,Allegra-M Max,60.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Fexofenadine (240mg),Montelukast (20mg)
+1336,Split Ends Severe,Trichup Serum Max,135.00,FALSE,Vasu Healthcare,allopathy,bottle of 100ml,Argan Oil (4%),Vitamin E (2%)
+1337,Spotting Severe,Meprate Max,75.00,FALSE,Serum Institute,allopathy,strip of 10 tablets,Medroxyprogesterone (20mg),Tranexamic Acid (1000mg)
+1338,Stomach Pain Severe,Spasmex Max,75.00,FALSE,Alkem,allopathy,strip of 10 tablets,Dicyclomine (40mg),Paracetamol (650mg)
+1339,Stress Severe,Ashwagandha Max,85.00,FALSE,Himalaya,allopathy,strip of 10 tablets,Ashwagandha Extract (500mg),Vitamin B6 (40mg)
+1340,Strongyloidiasis Severe,Ivermectin Max,95.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Ivermectin (24mg),Albendazole (800mg)
+1341,Stroke Severe,Clopitab Max,95.00,FALSE,USV,allopathy,strip of 10 tablets,Clopidogrel (150mg),Aspirin (150mg)
+1342,Sun Allergy Severe,Sunban Max,70.00,FALSE,Cadila,allopathy,tube of 60g,Zinc Oxide (20%),Titanium Dioxide (10%)
+1343,Sunburn Severe,Sunban Ultra,70.00,FALSE,Cadila,allopathy,tube of 60g,Zinc Oxide (20%),Vitamin E (800mg)
+1344,Swelling Severe,Chymoral Forte Max,90.00,FALSE,Torrent,allopathy,strip of 10 tablets,Trypsin-Chymotrypsin (200000AU),Paracetamol (1000mg)
+1345,Throat Infection Severe,Azithral Ultra,95.00,FALSE,Alembic,allopathy,strip of 10 tablets,Azithromycin (1000mg),Ambroxol (60mg)
+1346,Thyroiditis Severe,Prednisolone Max,125.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Prednisolone (10mg),Levothyroxine (100mcg)
+1347,Tinnitus Severe,Stugeron Forte Max,135.00,FALSE,Janssen,allopathy,strip of 10 tablets,Cinnarizine (150mg),Meclizine (50mg)
+1348,Toothache Severe,Metrogyl DG Max,75.00,FALSE,J.B. Chemicals,allopathy,strip of 10 tablets,Metronidazole (800mg),Chlorhexidine (0.4%)
+1349,Trichuriasis Severe,Combantrin Max,75.00,FALSE,Pfizer,allopathy,strip of 10 tablets,Pyrantel (500mg),Albendazole (800mg)
+1350,Ulcer Severe,Ulgel Max,115.00,FALSE,Ipca,allopathy,bottle of 200ml,Aluminium Hydroxide (500mg),Magnesium Hydroxide (500mg)
+1351,Urinary Retention Severe,Finast Max,135.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Finasteride (10mg),Tamsulosin (0.8mg)
+1352,Urinary Tract Infection Severe,Ciprofloxacin Max,95.00,FALSE,Cipla,allopathy,strip of 10 tablets,Ciprofloxacin (1000mg),Nitrofurantoin (200mg)
+1353,Vertigo Severe,Vertin OD Max,145.00,FALSE,Abbott,allopathy,strip of 10 tablets,Betahistine (48mg),Meclizine (50mg)
+1354,Vitiligo Severe,Melgain Max,155.00,FALSE,Dr. Reddy's,allopathy,bottle of 10ml,Deca Peptide (0.2%),Tacrolimus (0.06%)
+1355,Voice Change Severe,Bro-Zedex Max,70.00,FALSE,Wockhardt,allopathy,bottle of 100ml,Bromhexine (16mg),Guaifenesin (200mg)
+1356,Wheezing Severe,Foracort Max,100.00,FALSE,Cipla,allopathy,strip of 10 tablets,Formoterol (12mcg),Budesonide (400mcg)
+1357,Wrist Pain Severe,Myoril Max,125.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Thiocolchicoside (8mg),Paracetamol (1000mg)
+1358,Yellow Nails Severe,Fluconazole Max,85.00,FALSE,Cipla,allopathy,strip of 10 tablets,Fluconazole (300mg),Clotrimazole (2%)
+1359,Eye Dryness Severe,Optive Max,90.00,FALSE,Allergan,allopathy,bottle of 10ml,Carmellose Sodium (1%),Carboxymethylcellulose (1%)
+1360,Eye Discharge Severe,Ocuflox Max,95.00,FALSE,Allergan,allopathy,bottle of 5ml,Ofloxacin (0.6%),Chloramphenicol (1%)
+1361,Eye Redness Severe,Naphcon-A Max,125.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.2%),Antazoline (1%)
+1362,Eye Swelling Severe,Pred Forte Max,135.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (2%),Tobramycin (0.6%)
+1363,Eye Itching Severe,Olopat Max,75.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (10mg),Ketotifen (2mg)
+1364,Eye Allergy Severe,Alaway Max,115.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.05%),Olopatadine (0.4%)
+1365,Eye Infection Severe,Tobramycin Max,125.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.6%),Polymyxin B (20000 units)
+1366,Eye Pain Severe,Flur Max,115.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (100mg),Paracetamol (650mg)
+1367,Eye Redness Severe,Naphcon-A Max,125.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.2%),Antazoline (1%)
+1368,Eye Swelling Severe,Pred Forte Max,135.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (2%),Tobramycin (0.6%)
+1369,Eye Itching Severe,Olopat Max,75.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (10mg),Ketotifen (2mg)
+1370,Eye Allergy Severe,Alaway Max,115.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.05%),Olopatadine (0.4%)
+1371,Eye Infection Severe,Tobramycin Max,125.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.6%),Polymyxin B (20000 units)
+1372,Eye Pain Severe,Flur Max,115.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (100mg),Paracetamol (650mg)
+1373,Eye Redness Severe,Naphcon-A Max,125.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.2%),Antazoline (1%)
+1374,Eye Swelling Severe,Pred Forte Max,135.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (2%),Tobramycin (0.6%)
+1375,Eye Itching Severe,Olopat Max,75.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (10mg),Ketotifen (2mg)
+1376,Eye Allergy Severe,Alaway Max,115.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.05%),Olopatadine (0.4%)
+1377,Eye Infection Severe,Tobramycin Max,125.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.6%),Polymyxin B (20000 units)
+1378,Eye Pain Severe,Flur Max,115.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (100mg),Paracetamol (650mg)
+1379,Eye Redness Severe,Naphcon-A Max,125.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.2%),Antazoline (1%)
+1380,Eye Swelling Severe,Pred Forte Max,135.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (2%),Tobramycin (0.6%)
+1381,Eye Itching Severe,Olopat Max,75.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (10mg),Ketotifen (2mg)
+1382,Eye Allergy Severe,Alaway Max,115.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.05%),Olopatadine (0.4%)
+1383,Eye Infection Severe,Tobramycin Max,125.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.6%),Polymyxin B (20000 units)
+1384,Eye Pain Severe,Flur Max,115.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (100mg),Paracetamol (650mg)
+1385,Eye Redness Severe,Naphcon-A Max,125.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.2%),Antazoline (1%)
+1386,Eye Swelling Severe,Pred Forte Max,135.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (2%),Tobramycin (0.6%)
+1387,Eye Itching Severe,Olopat Max,75.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (10mg),Ketotifen (2mg)
+1388,Eye Allergy Severe,Alaway Max,115.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.05%),Olopatadine (0.4%)
+1389,Eye Infection Severe,Tobramycin Max,125.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.6%),Polymyxin B (20000 units)
+1390,Eye Pain Severe,Flur Max,115.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (100mg),Paracetamol (650mg)
+1391,Eye Redness Severe,Naphcon-A Max,125.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.2%),Antazoline (1%)
+1392,Eye Swelling Severe,Pred Forte Max,135.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (2%),Tobramycin (0.6%)
+1393,Eye Itching Severe,Olopat Max,75.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (10mg),Ketotifen (2mg)
+1394,Eye Allergy Severe,Alaway Max,115.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.05%),Olopatadine (0.4%)
+1395,Eye Infection Severe,Tobramycin Max,125.00,FALSE,Sun Pharma,allopathy,bottle of 5ml,Tobramycin (0.6%),Polymyxin B (20000 units)
+1396,Eye Pain Severe,Flur Max,115.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (100mg),Paracetamol (650mg)
+1397,Eye Redness Severe,Naphcon-A Max,125.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.2%),Antazoline (1%)
+1398,Eye Swelling Severe,Pred Forte Max,135.00,FALSE,Allergan,allopathy,bottle of 5ml,Prednisolone (2%),Tobramycin (0.6%)
+1399,Eye Itching Severe,Olopat Max,75.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (10mg),Ketotifen (2mg)
+1400,Eye Allergy Severe,Alaway Max,115.00,FALSE,Alcon,allopathy,bottle of 5ml,Ketotifen (0.05%),Olopatadine (0.4%)
+// append to: d:\medilow2\backend\data\Diseases_Symptoms.csv
+1401,Severe Sore Throat,Septilin Forte,65.00,FALSE,Himalaya,allopathy,strip of 10 tablets,Herbal Blend,Vitamin C (100mg)
+1402,Mild Back Pain,Flexon Mild,70.00,FALSE,Alembic,allopathy,strip of 10 tablets,Paracetamol (325mg),Ibuprofen (200mg)
+1403,Chronic Headache,Panadol Chronic,75.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (650mg),Caffeine (65mg)
+1404,Acute Sinusitis,Sinarest Acute,80.00,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Paracetamol (650mg),Phenylephrine (10mg)
+1405,Severe Asthma,Asthalin Max,200.00,FALSE,Glenmark,allopathy,pack of 20 capsules,Salbutamol (200mcg),Budesonide (400mcg)
+1406,Chronic Chest Pain,Ibucure Chronic,170.00,FALSE,Alembic,allopathy,bottle of 100 ml Syrup,Ibuprofen (600mg),Paracetamol (650mg)
+1407,Severe Diabetes,Glucofort Max,140.00,FALSE,Cipla,allopathy,strip of 10 tablets,Metformin (1000mg),Sitagliptin (100mg)
+1408,Chronic Hypertension,Losar Chronic,130.00,FALSE,Cipla,allopathy,strip of 10 tablets,Losartan (100mg),Hydrochlorothiazide (25mg)
+1409,Severe Cold,Coldrex Max,60.00,FALSE,Johnson & Johnson,allopathy,strip of 10 tablets,Paracetamol (650mg),Phenylephrine (10mg)
+1410,Chronic Fever,Tylenol Chronic,65.00,FALSE,Johnson & Johnson,allopathy,strip of 10 tablets,Paracetamol (650mg),Vitamin C (200mg)
+1411,Severe Joint Pain,Rejoint Forte,130.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (1000mg),Chondroitin (400mg)
+1412,Chronic Muscle Pain,Volini Chronic,100.00,FALSE,Sun Pharma,allopathy,tube of 30g,Diclofenac Diethylamine (2.32%),Menthol (10%)
+1413,Severe Indigestion,Enzoflam Forte,70.00,FALSE,Alkem,allopathy,strip of 10 tablets,Fungal Diastase (100mg),Pepsin (20mg)
+1414,Chronic Constipation,Cremaffin Chronic,90.00,FALSE,Abbott,allopathy,bottle of 200 ml Syrup,Liquid Paraffin (2.5ml),Milk of Magnesia (7.5ml)
+1415,Severe Acidity,Pan 40 Forte,80.00,FALSE,Alkem,allopathy,strip of 10 tablets,Pantoprazole (80mg),Magaldrate (400mg)
+1416,Chronic Diarrhea,Norflox-TZ Chronic,70.00,FALSE,Cipla,allopathy,strip of 10 tablets,Norfloxacin (800mg),Tinidazole (1200mg)
+1417,Severe Swelling,Chymoral Forte Max,100.00,FALSE,Torrent,allopathy,strip of 10 tablets,Trypsin-Chymotrypsin (200000AU),Paracetamol (1000mg)
+1418,Chronic Itching,Avil Chronic,85.00,FALSE,SANOFI,allopathy,strip of 10 tablets,Pheniramine (50mg),Cetirizine (20mg)
+1419,Severe Runny Nose,Sinarest Max,70.00,FALSE,Centaur,allopathy,strip of 10 tablets,Paracetamol (650mg),Phenylephrine (20mg)
+1420,Chronic Sneezing,Allegra-M Chronic,65.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Fexofenadine (240mg),Montelukast (20mg)
+1421,Severe Watery Eyes,Pataday Max,80.00,FALSE,Alcon,allopathy,bottle of 5ml,Olopatadine (0.4%),Ketotifen (0.05%)
+1422,Chronic Loss of Appetite,Periactin Chronic,75.00,FALSE,Merck,allopathy,strip of 10 tablets,Cyproheptadine (8mg),Multivitamins
+1423,Severe Stomach Pain,Spasmex Max,80.00,FALSE,Alkem,allopathy,strip of 10 tablets,Dicyclomine (40mg),Paracetamol (650mg)
+1424,Chronic Gas,Gasex Chronic,60.00,FALSE,Himalaya,allopathy,strip of 10 tablets,Herbal Blend,Simethicone (160mg)
+1425,Severe Bloating,Espumisan Forte,95.00,FALSE,Bayer,allopathy,strip of 10 tablets,Simethicone (80mg),Activated Charcoal (500mg)
+1426,Chronic Cramping,Spasmoproxyvon Chronic,100.00,FALSE,Wockhardt,allopathy,strip of 10 tablets,Dicyclomine (20mg),Paracetamol (650mg)
+1427,Severe Loose Motion,Loperamide Forte,65.00,FALSE,Janssen,allopathy,strip of 10 tablets,Loperamide (4mg),ORS Salts
+1428,Chronic Dehydration,Electral Chronic,50.00,FALSE,FDC,allopathy,pack of 21g Sachet,ORS Salts,Glucose (7g)
+1429,Severe Dizziness,Vertin Max,120.00,FALSE,Abbott,allopathy,strip of 10 tablets,Betahistine (32mg),Meclizine (50mg)
+1430,Chronic Palpitations,Cardace Chronic,110.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Ramipril (10mg),Bisoprolol (10mg)
+1431,Severe Shortness of Breath,Asthalin Forte,95.00,FALSE,Cipla,allopathy,strip of 10 tablets,Salbutamol (4mg),Theophylline (200mg)
+1432,Chronic Chest Tightness,Montair Chronic,105.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Montelukast (20mg),Levocetirizine (10mg)
+1433,Severe Back Stiffness,Flexura Forte,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Methocarbamol (1000mg),Paracetamol (1000mg)
+1434,Chronic Neck Pain,Nucoxia Chronic,130.00,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Etoricoxib (180mg),Paracetamol (1000mg)
+1435,Severe Shoulder Pain,Brufen Forte,90.00,FALSE,Abbott,allopathy,strip of 10 tablets,Ibuprofen (800mg),Paracetamol (650mg)
+1436,Chronic Heel Pain,Calcimax Chronic,120.00,FALSE,Meyer Vitabiotics,allopathy,strip of 10 tablets,Calcium Carbonate (1000mg),Vitamin D3 (500IU)
+1437,Severe Joint Stiffness,Movexx Forte,125.00,FALSE,Alkem,allopathy,strip of 10 tablets,Glucosamine (1000mg),Chondroitin (400mg)
+1438,Chronic Leg Pain,Naproxen Chronic,80.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Naproxen (500mg),Paracetamol (650mg)
+1439,Severe Hand Pain,Paraflex Forte,75.00,FALSE,Abbott,allopathy,strip of 10 tablets,Paracetamol (650mg),Ibuprofen (400mg)
+1440,Chronic Foot Pain,Flexon-MR Chronic,105.00,FALSE,Alembic,allopathy,strip of 10 tablets,Paracetamol (650mg),Chlorzoxazone (500mg)
+1441,Severe Elbow Pain,Ibuprofen Forte,70.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Ibuprofen (800mg),Paracetamol (650mg)
+1442,Chronic Wrist Pain,Myoril Chronic,130.00,FALSE,Sanofi,allopathy,strip of 10 tablets,Thiocolchicoside (8mg),Paracetamol (1000mg)
+1443,Severe Finger Pain,Diclofenac Forte,65.00,FALSE,Novartis,allopathy,strip of 10 tablets,Diclofenac (100mg),Paracetamol (650mg)
+1444,Chronic Toe Pain,Paracetamol Chronic,60.00,FALSE,GSK,allopathy,strip of 10 tablets,Paracetamol (650mg),Ibuprofen (400mg)
+1445,Severe Redness,Betnovate Forte,90.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Betamethasone (0.2%),Hydrocortisone (20mg)
+1446,Chronic Burning Sensation,Prilox Chronic,100.00,FALSE,Neon,allopathy,tube of 30g,Lidocaine (5%),Prilocaine (5%)
+1447,Severe Ulcer,Sucral Forte,120.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Sucralfate (2g),Ranitidine (300mg)
+1448,Chronic Blisters,Acyclovir Chronic,130.00,FALSE,Cipla,allopathy,strip of 10 tablets,Acyclovir (800mg),Paracetamol (650mg)
+1449,Severe Peeling Skin,Clotrimazole Forte,80.00,FALSE,Bayer,allopathy,strip of 10 tablets,Clotrimazole (2%),Hydrocortisone (20mg)
+1450,Chronic Dry Skin,Moisturex Chronic,70.00,FALSE,Sun Pharma,allopathy,tube of 100g,White Soft Paraffin (26.4g),Liquid Paraffin (20.8g)
+1451,Severe Cracked Heels,Krack Cream Forte,65.00,FALSE,Curatio,allopathy,tube of 30g,Salicylic Acid (12%),Lanolin (4%)
+1452,Chronic Sunburn,Aloe Vera Gel Chronic,75.00,FALSE,Patanjali,allopathy,tube of 60g,Aloe Vera Extract (95%),Vitamin E (400mg)
+1453,Severe Dark Circles,Retino-A Forte,130.00,FALSE,Janssen,allopathy,tube of 20g,Tretinoin (0.1%),Vitamin C (2%)
+1454,Chronic Wrinkles,Olay Total Effects Max,160.00,FALSE,Procter & Gamble,allopathy,tube of 50g,Niacinamide (8%),Vitamin E (2%)
+1455,Severe Hair Loss,Mintop Forte,200.00,FALSE,Dr. Reddy's,allopathy,bottle of 60ml,Minoxidil (10%),Biotin (20mg)
+1456,Chronic Dandruff,Nizoral Chronic,100.00,FALSE,Janssen,allopathy,bottle of 100ml,Ketoconazole (4%),Zinc Pyrithione (2%)
+1457,Severe Scalp Itching,Scalpe Forte,95.00,FALSE,Glenmark,allopathy,bottle of 75ml,Climbazole (2%),Zinc Pyrithione (2%)
+1458,Chronic Premature Greying,Trichup Chronic,130.00,FALSE,Vasu Healthcare,allopathy,bottle of 100ml,Bhringraj Extract (10%),Amla Extract (10%)
+1459,Severe Weakness,Ferrochel Forte,70.00,FALSE,Alkem,allopathy,strip of 10 tablets,Ferrous Bisglycinate (200mg),Folic Acid (2mg)
+1460,Chronic Low Energy,Calcirol Chronic,85.00,FALSE,Cipla,allopathy,strip of 10 tablets,Vitamin D3 (2000IU),Vitamin B12 (1000mcg)
+1461,Severe Loss of Concentration,Cognitol Forte,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Piracetam (800mg),Vitamin B12 (1000mcg)
+1462,Chronic Forgetfulness,Mecobalamin Chronic,105.00,FALSE,Abbott,allopathy,strip of 10 tablets,Methylcobalamin (1000mcg),Folic Acid (2mg)
+1463,Severe Confusion,Folic Acid Forte,60.00,FALSE,Alkem,allopathy,strip of 10 tablets,Folic Acid (2mg),Vitamin B6 (6mg)
+1464,Chronic Insomnia,Meloset Chronic,130.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Melatonin (6mg),Valerian Extract (100mg)
+1465,Severe Restlessness,Restyl Forte,95.00,FALSE,Cipla,allopathy,strip of 10 tablets,Alprazolam (0.5mg),Clonazepam (1mg)
+1466,Chronic Anxiety,Stresnil Chronic,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Sertraline (100mg),Clonazepam (1mg)
+1467,Severe Depression,Depilox Forte,140.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Amoxapine (100mg),Sertraline (100mg)
+1468,Chronic Low Mood,Flunil Chronic,130.00,FALSE,Intas,allopathy,strip of 10 tablets,Fluoxetine (40mg),Sertraline (100mg)
+1469,Severe Anger,Serenace Forte,120.00,FALSE,Ranbaxy,allopathy,strip of 10 tablets,Haloperidol (10mg),Vitamin B6 (20mg)
+1470,Chronic Irritability,Clonotril Chronic,100.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Clonazepam (1mg),Vitamin B6 (20mg)
+1471,Severe Stress,Ashwagandha Forte,90.00,FALSE,Himalaya,allopathy,strip of 10 tablets,Ashwagandha Extract (500mg),Vitamin B6 (40mg)
+1472,Chronic Low Immunity,Livogen Chronic,70.00,FALSE,Merck,allopathy,strip of 10 tablets,Iron (200mg),Vitamin C (100mg)
+1473,Severe Frequent Infections,Limcee Forte,65.00,FALSE,Abbott,allopathy,strip of 10 tablets,Vitamin C (1000mg),Zinc (40mg)
+1474,Chronic Frequent Urination,Urimax Chronic,130.00,FALSE,Cipla,allopathy,strip of 10 tablets,Tamsulosin (0.8mg),Finasteride (10mg)
+1475,Severe Burning Urination,Cranpac Forte,120.00,FALSE,Alkem,allopathy,strip of 10 tablets,Cranberry Extract (600mg),Potassium Citrate (2200mg)
+1476,Chronic Urinary Retention,Tamlocept Chronic,140.00,FALSE,Intas,allopathy,strip of 10 tablets,Tamsulosin (0.8mg),Finasteride (10mg)
+1477,Severe Nocturia,Desmotabs Forte,150.00,FALSE,Ferring,allopathy,strip of 10 tablets,Desmopressin (0.2mg),Tolterodine (4mg)
+1478,Chronic Incontinence,Soliten Chronic,160.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Solifenacin (10mg),Oxybutynin (10mg)
+1479,Severe Menstrual Irregularity,Deviry Forte,100.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Medroxyprogesterone (20mg),Ethinyl Estradiol (0.06mg)
+1480,Chronic Heavy Periods,Tranexa Chronic,110.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Tranexamic Acid (1000mg),Mefenamic Acid (500mg)
+1481,Severe Light Periods,Folinal Forte,90.00,FALSE,Intas,allopathy,strip of 10 tablets,Folic Acid (2mg),Vitamin B12 (1000mcg)
+1482,Chronic Spotting,Vitamin K Chronic,80.00,FALSE,Alkem,allopathy,strip of 10 tablets,Vitamin K (10mg),Tranexamic Acid (1000mg)
+1483,Severe Hot Flashes,Clonidine Forte,130.00,FALSE,Unichem,allopathy,strip of 10 tablets,Clonidine (0.2mg),Vitamin E (800mg)
+1484,Chronic Night Sweats,Vitamin B6 Chronic,70.00,FALSE,Abbott,allopathy,strip of 10 tablets,Vitamin B6 (40mg),Vitamin D3 (2000IU)
+1485,Severe Hoarseness,Ambrolite Forte,80.00,FALSE,Dr. Reddy's,allopathy,strip of 10 tablets,Ambroxol (60mg),Guaifenesin (200mg)
+1486,Chronic Voice Change,Bromhexine Chronic,75.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Bromhexine (16mg),Ambroxol (60mg)
+1487,Severe Difficulty Swallowing,Domstal Forte,100.00,FALSE,Cipla,allopathy,strip of 10 tablets,Domperidone (20mg),Pantoprazole (80mg)
+1488,Chronic Eye Redness,Naphcon-A Chronic,130.00,FALSE,Alcon,allopathy,bottle of 10ml,Naphazoline (0.2%),Antazoline (1%)
+1489,Severe Eye Pain,Flur Forte,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Flurbiprofen (100mg),Paracetamol (650mg)
+1490,Chronic Blurred Vision,Ocuvite Max,140.00,FALSE,Bausch & Lomb,allopathy,strip of 10 tablets,Lutein (20mg),Vitamin A (10000IU)
+1491,Severe Double Vision,Mecobalamin Forte,105.00,FALSE,Abbott,allopathy,strip of 10 tablets,Methylcobalamin (1000mcg),Vitamin B6 (6mg)
+1492,Chronic Photophobia,Olopat Chronic,130.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Olopatadine (10mg),Ketotifen (2mg)
+1493,Severe Tearing,Refresh Tears Forte,90.00,FALSE,Allergan,allopathy,bottle of 10ml,Carboxymethylcellulose (1%),Vitamin E (400mg)
+1494,Chronic Dry Eyes,Tears Naturale Max,95.00,FALSE,Alcon,allopathy,bottle of 10ml,Hypromellose (0.6%),Vitamin E (400mg)
+1495,Severe Eye Discharge,Ocuflox Forte,100.00,FALSE,Allergan,allopathy,bottle of 5ml,Ofloxacin (0.6%),Chloramphenicol (1%)
+1496,Chronic Ear Discharge,Ciplox-D Chronic,105.00,FALSE,Cipla,allopathy,bottle of 10ml,Ciprofloxacin (0.6%),Dexamethasone (0.2%)
+1497,Severe Ear Fullness,Betavert Forte Max,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Betahistine (48mg),Meclizine (50mg)
+1498,Chronic Hearing Loss,Neurobion Injection Max,130.00,FALSE,Merck,allopathy,ampoule of 1ml,Vitamin B12 (1000mcg),Vitamin B6 (6mg)
+1499,Severe Tinnitus,Stugeron Forte Max,140.00,FALSE,Janssen,allopathy,strip of 10 tablets,Cinnarizine (150mg),Meclizine (50mg)
+1500,Chronic Vertigo,Vertin OD Max,150.00,FALSE,Abbott,allopathy,strip of 10 tablets,Betahistine (48mg),Meclizine (50mg)
+1501,Joint Pain Mild,Rejoint Lite,90.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (250mg),Chondroitin (100mg)
+1502,Joint Pain Moderate,Rejoint Plus,110.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (750mg),Chondroitin (300mg)
+1503,Joint Pain Severe,Rejoint Forte,130.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (1000mg),Chondroitin (400mg)
+1504,Joint Pain Chronic,Rejoint XR,140.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (1000mg),MSM (500mg)
+1505,Joint Pain Acute,Flexabenz Plus,120.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Cyclobenzaprine (15mg),Paracetamol (650mg)
+1506,Joint Pain Inflammatory,SAAZ Plus,135.00,FALSE,Ipca,allopathy,strip of 10 tablets,Sulfasalazine (1000mg),Paracetamol (650mg)
+1507,Joint Pain Osteoarthritis,Orthofit OA,125.00,FALSE,Sun Pharma,allopathy,strip of 10 tablets,Diclofenac (100mg),Glucosamine (500mg)
+1508,Joint Pain Rheumatoid,Rejoint RA,140.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (1000mg),Methotrexate (7.5mg)
+1509,Joint Pain Post-Trauma,Flexon Trauma,115.00,FALSE,Alembic,allopathy,strip of 10 tablets,Paracetamol (650mg),Ibuprofen (400mg)
+1510,Joint Pain Elderly,Rejoint Senior,120.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (750mg),Vitamin D3 (1000IU)
+1511,Joint Pain Juvenile,Rejoint Junior,80.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (250mg),Vitamin D3 (400IU)
+1512,Joint Pain with Swelling,Chymoral Joint,125.00,FALSE,Torrent,allopathy,strip of 10 tablets,Trypsin-Chymotrypsin (100000AU),Paracetamol (500mg)
+1513,Joint Pain with Stiffness,Movexx Joint,120.00,FALSE,Alkem,allopathy,strip of 10 tablets,Glucosamine (500mg),Chondroitin (200mg)
+1514,Joint Pain with Redness,Betnovate Joint,100.00,FALSE,GlaxoSmithKline,allopathy,strip of 10 tablets,Betamethasone (0.1%),Paracetamol (500mg)
+1515,Joint Pain with Warmth,Flexon Warm,110.00,FALSE,Alembic,allopathy,strip of 10 tablets,Paracetamol (500mg),Ibuprofen (400mg)
+1516,Joint Pain with Loss of Function,Rejoint Max,150.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (1000mg),Chondroitin (400mg)
+1517,Joint Pain with Morning Stiffness,Movexx Morning,125.00,FALSE,Alkem,allopathy,strip of 10 tablets,Glucosamine (500mg),Chondroitin (200mg)
+1518,Joint Pain with Night Pain,Flexon Night,115.00,FALSE,Alembic,allopathy,strip of 10 tablets,Paracetamol (650mg),Ibuprofen (400mg)
+1519,Joint Pain with Limited Mobility,Rejoint Mobility,135.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (1000mg),MSM (500mg)
+1520,Joint Pain with Crepitus,Rejoint Crepitus,120.00,FALSE,Intas,allopathy,strip of 10 tablets,Glucosamine (750mg),Chondroitin (300mg)
